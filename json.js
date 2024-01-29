@@ -9,11 +9,11 @@ fetch('pages.json').then(function(response) {
     pages.items.forEach(function(page) {
         console.log(page.title)
         portfolioPages.innerHTML += `<div class="portfolio-pages-info container">
-        <a href="${page.pageLink}"> <img src=${page.image}></img></a>
+        <a href="${page.pageLink}"> <img src=${page.image} alt="project"></img></a>
         <h3>${page.title}</h3>
         <p class="category">${page.category}</p>
         <p>${page.description}</p>
-        <a href=${page.github}>View on Github</a>
+        <a id="githubLink" href=${page.github}>View on Github</a>
         </div>
         `
     })
