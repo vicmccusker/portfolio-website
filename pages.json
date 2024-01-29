@@ -1,0 +1,40 @@
+{
+    "items": [
+      {
+        "title": "Birthstone Generator",
+        "description": "Project One Description",
+        "githubs": "https://github.com/vicmccusker",
+        "category": "Development | Design",
+        "image": "/images/birthstone-generator.png",
+        "pageLink": "/birthstone.html"
+
+      },
+      
+      {
+        "title": "Project Two",
+        "description": "Project Two Description",
+        "github": "https://github.com/vicmccusker",
+        "category": "Development | Design",
+        "image": "/images/image-placeholder.png"
+
+      },
+      
+      {
+        "title": "Project Three",
+        "description": "Project Three Description",
+        "github": "https://github.com/vicmccusker",
+        "category": "Development",
+        "image": "/images/image-placeholder.png"
+
+      },
+
+      {
+        "title": "Project Four",
+        "description": "Project Four Description",
+        "github": "https://github.com/vicmccusker",
+        "category": "Development",
+        "image": "/images/image-placeholder.png"
+
+      }
+    ]
+  }
