@@ -1,6 +1,6 @@
 
 :root {
-  --background: #F4ECEC;
+  --background: #f9e7e7;
   --text: #463D59;
   --yellow: #FCF200;
 }
@@ -87,7 +87,7 @@ header p#hello {
 header p#description {
   font-size: 2rem;
   position: absolute;
-  top: 60%;
+  top: 65%;
   left: 45%;
 }
 
@@ -178,9 +178,9 @@ footer {
 .text-container {
 
 display: flex;
-flex-direction: column;
-gap: 30px;
-height: 500px;
+flex-direction: row;
+gap: 20px;
+height: 100vh;
 align-items: center;
 justify-content: center;
   
@@ -338,25 +338,22 @@ justify-content: center;
       display: flex;
       align-items: center;
       justify-content: center;
+      width: 100%;
 
     }
 
-    .portfolio-pages-info {
+    #featured {
 
-      display: flex;
-      flex-direction: column;
-      flex-wrap: wrap;
-      justify-content: center;
-
+      text-align: center;
     }
 
     .contact {
-  
+
+      flex-direction: column;
       margin-top: 100px;
       margin-bottom: 100px;
 
     }
-
 
 
 /* about page */
