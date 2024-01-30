@@ -1,4 +1,5 @@
 const portfolioPages = document.querySelector('.portfolio-projects')
+const birthstonePage = document.querySelector('.birthstone')
 
 fetch('pages.json').then(function(response) {
     return response.json() 
@@ -8,15 +9,18 @@ fetch('pages.json').then(function(response) {
     console.log(pages)
     pages.items.forEach(function(page) {
         console.log(page.title)
-        portfolioPages.innerHTML += `<div class="portfolio-pages-info container">
-        <a href="${page.pageLink}"> <img src=${page.image} alt="project"></img></a>
-        <h3>${page.title}</h3>
-        <p class="category">${page.category}</p>
-        <p>${page.description}</p>
-        <a id="githubLink" href=${page.github}>View on Github</a>
-        </div>
-        `
+
+        if (portfolioPages) {
+            portfolioPages.innerHTML += `<div class="portfolio-pages-info container">
+            <a class="project-link" href="${page.pageLink}"> <img src=${page.image} alt="project"></img></a>
+            <h3>${page.title}</h3>
+            <p class="category">${page.category}</p>
+            <h3>${page.description}</h3>
+            <a id="githubLink" href=${page.github}>View on Github</a>
+            </div>`
+        } else {}
     })
+
 }) 
 
 
@@ -26,7 +30,6 @@ function toggleOpen() {
     const list = document.querySelector(".nav-links")
     list.classList.add("active")
     console.log("active")
-
 }
 
 document.querySelector('.close').addEventListener("click", toggleClosed)

@@ -1,12 +1,14 @@
 {
     "items": [
       {
-        "title": "Birthstone Generator",
+        "title": "Birthstone",
         "description": "Project One Description",
-        "githubs": "https://github.com/vicmccusker",
+        "pageDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
+        "github": "https://github.com/vicmccusker",
         "category": "Development | Design",
         "image": "/images/birthstone-generator.png",
-        "pageLink": "/birthstone.html"
+        "pageLink": "birthstone.html?project=Birthstone",
+        "video": "/images/birthstone-generator.png"
 
       },
       
