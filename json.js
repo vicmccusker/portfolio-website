@@ -12,13 +12,16 @@ fetch('pages.json').then(function(response) {
 
         if (portfolioPages) {
             portfolioPages.innerHTML += `<div class="portfolio-pages-info container">
-            <a class="project-link" href="${page.pageLink}"> <img src=${page.image} alt="project"></img></a>
+            <a class="project-link" href="${page.pageLink}"> <img src=${page.coverImage} alt="project"></img></a>
             <h3>${page.title}</h3>
             <h3 class="category">${page.category}</h3>
             <a id="githubLink" href=${page.github}>View on Github</a>
             </div>`
-        } else {}
-    })
+        } else {
+
+        }
+
+    }) 
 
 }) 
 
@@ -38,3 +41,5 @@ function toggleClosed() {
     listClose.classList.remove("active")
     console.log("closed")
 }
+
+

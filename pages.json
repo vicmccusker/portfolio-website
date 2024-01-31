@@ -8,8 +8,9 @@
         "pageDescriptionInDepth": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
-        "category": "Development | Design",
-        "image": "/images/birthstone-generator.png",
+        "category": "Design",
+        "coverImage": "/images/birthstone-generator.png",
+        "image": ["/images/birthstone-generator.png", "/images/birthstone-generator-long.png"],
         "pageLink": "birthstone.html?project=birthstone",
         "video": "/images/Birthstone-Sequence.mp4"
 
@@ -24,6 +25,7 @@
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
         "category": "Development | Design",
+        "coverImage": "/images/birthstone-generator.png",
         "image": "/images/birthstone-generator.png",
         "pageLink": "birthstone.html?project=birthstone",
         "video": "/images/Birthstone-Sequence.mp4"
@@ -39,6 +41,7 @@
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
         "category": "Development | Design",
+        "coverImage": "/images/birthstone-generator.png",
         "image": "/images/birthstone-generator.png",
         "pageLink": "birthstone.html?project=birthstone",
         "video": "/images/Birthstone-Sequence.mp4"
@@ -54,6 +57,7 @@
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
         "category": "Development | Design",
+        "coverImage": "/images/birthstone-generator.png",
         "image": "/images/birthstone-generator.png",
         "pageLink": "birthstone.html?project=birthstone",
         "video": "/images/Birthstone-Sequence.mp4"

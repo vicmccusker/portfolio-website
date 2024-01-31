@@ -55,8 +55,8 @@ nav a:focus {
 }
 
 .burger, .close{
-
   display: none;
+
 }
 
 header {
@@ -194,18 +194,30 @@ img {
 }
 
 .go-to-top {
-  color: var(--text);
-  display: flex;
-  flex-direction: column;
   text-decoration: none;
+  display: flex;
   border-radius: 20px;
   border: 0.5px solid var(--text);
-  width: 10%;
+  width: 50px;
+  height: 50px;
   margin: 20px;
   padding: 10px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  font-size: 2rem;
 
 }
 
+i {
+  color:var(--text);
+
+}
+
+
+h2 {
+  text-decoration: none;
+}
 
 footer {
 
@@ -275,7 +287,6 @@ justify-content: center;
   padding: 20px 20px;
   border-radius: 4px;
   font-weight: 600;
-  margin-top: 20px;
 
 }
 
