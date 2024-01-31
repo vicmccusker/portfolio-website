@@ -14,8 +14,7 @@ fetch('pages.json').then(function(response) {
             portfolioPages.innerHTML += `<div class="portfolio-pages-info container">
             <a class="project-link" href="${page.pageLink}"> <img src=${page.image} alt="project"></img></a>
             <h3>${page.title}</h3>
-            <p class="category">${page.category}</p>
-            <h3>${page.description}</h3>
+            <h3 class="category">${page.category}</h3>
             <a id="githubLink" href=${page.github}>View on Github</a>
             </div>`
         } else {}

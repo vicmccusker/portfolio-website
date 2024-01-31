@@ -1,7 +1,7 @@
 
 :root {
   --background: #f9e7e7;
-  --text: #463D59;
+  --text: #412e50;
   --yellow: #FCF200;
 }
 
@@ -60,14 +60,10 @@ nav a:focus {
 }
 
 header {
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 0px;
-  height: 70vh;
-  position: relative;
+  margin: 0;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
 
 }
 
@@ -82,18 +78,26 @@ header {
 
 }
 
-header p#hello {
+#hello {
   font-size: 2rem;
-  position: absolute;
-  top: 25%;
-  left: 35%;
+  padding-right: 200px;
+  padding-bottom: 10px;
 }
 
-header p#description {
+#description {
   font-size: 2rem;
-  position: absolute;
-  top: 70%;
-  left: 45%;
+  padding-left: 300px;
+  padding-top: 20px;
+}
+
+#first-name {
+  padding-right: 300px;
+}
+
+#description {
+  font-size: 2rem;
+  padding-left: 300px;
+  padding-top: 20px;
 }
 
 h1 {
@@ -102,6 +106,7 @@ h1 {
   margin: 0;
   font-size: 7rem;
   padding-bottom: 5px;
+  color: var(--text);
 
 }
 
@@ -111,15 +116,16 @@ h2 {
   margin: 0;
   font-size: 5rem;
   padding-bottom: 5px;
+  color: var(--text);
 
 }
 
 h3 {
 
   font-family: 'Raleway', sans-serif;
-  margin: 0;
+  margin-bottom: 20px;
   font-size: 1.5rem;
-  padding-bottom: 5px;
+  color: var(--text);
 
 
 }
@@ -127,15 +133,16 @@ h3 {
 p {
 
   font-family: 'Inter', sans-serif;
-  margin: 0;
   font-size: 1.5rem;
   font-weight: 300;
   padding-bottom: 5px;
+  color: var(--text);
 
 }
 
 p.category {
   font-size: 1.2rem;
+  color: var(--text);
 }
 
 .portfolio-projects {
@@ -162,6 +169,20 @@ img {
 #githubLink {
   text-decoration: none;
   color: #463D59;
+  border: 0.5px solid #463D59;
+  width: 150px;
+  text-align: center;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#githubLink:hover{
+  text-decoration: none;
+  background-image: radial-gradient(#00fb9f, transparent);
+  border: 0.5px solid #463D59;
+
 }
 
 .contact {
@@ -172,10 +193,50 @@ img {
 
 }
 
+.go-to-top {
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  border-radius: 20px;
+  border: 0.5px solid var(--text);
+  width: 10%;
+  margin: 20px;
+  padding: 10px;
+
+}
+
+
 footer {
 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-top: 1px solid black;
-  justify-content: center;
+  padding-bottom: 20px;
+  font-size: 2rem;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+footer a {
+
+  text-decoration: none;
+  color: var(--text);
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+footer a:hover {
+  background-image: radial-gradient(#00fb9f, transparent);
+
+}
+
+footer a:focus {
+  background-image: radial-gradient(#00fb9f, transparent);
 
 }
 
@@ -187,8 +248,7 @@ footer {
 display: flex;
 flex-direction: row;
 gap: 50px;
-height: 500px;
-margin: 200px;
+margin-top: 5%;
 align-items: center;
 justify-content: center;
   
@@ -196,10 +256,12 @@ justify-content: center;
 
 .text-container h2 {
   padding-bottom: 30px;
+  color: text;
 }
 
 .text-container p {
   padding-bottom: 30px;
+  color: text;
 }
 
 .profile-image {
@@ -227,6 +289,69 @@ justify-content: center;
 
 }
 
+.email-link {
+
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 500;
+
+}
+
+/* All Project Pages */
+
+.full-width {
+
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 100%;
+  justify-items: center;
+  align-items: center;
+
+}
+
+
+.full-width img {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 20px;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+
+
+.header-background-project {
+
+  background-image: radial-gradient(circle, yellow, transparent, transparent, transparent);
+  height: 50%;
+  width: 50%;
+  position: absolute;
+  z-index: -1;
+  left: 10%;
+  top: 10%;
+
+}
+
+@media only screen and (max-width: 1309px) {
+
+  .contact {
+
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+  }
+
+}
+
 @media only screen and (max-width: 768px) {
 
 
@@ -240,7 +365,7 @@ justify-content: center;
     justify-content: center;
     gap: 30px;
     background-color: var(--background);
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     text-align: center;
     transition: 1s;
@@ -251,6 +376,7 @@ justify-content: center;
 
   .active {
         top: 0;
+        right: 0;
     }
 
   .burger {
@@ -292,7 +418,7 @@ justify-content: center;
     align-items: center;
     justify-content: center;
     margin: 0px;
-    height: 70vh;
+    height: 40vh;
 
   }
 
@@ -311,17 +437,24 @@ justify-content: center;
 
   }
 
-  header p#hello {
+  #hello {
     font-size: 1.7rem;
-    position: static;
-    display: block;
+    padding: 0px;
+
 
   }
+
+  #first-name {
+    padding: 0px;
+
+
+  }
+
+
   
-  header p#description {
+  #description {
     font-size: 1.7rem;
-    position: static;
-    display: block;
+    padding: 0px;
 
   }
 
@@ -342,7 +475,7 @@ justify-content: center;
   h3 {
 
     font-family: 'Raleway', sans-serif;
-    margin: 0;
+    margin-top: 20px;
     font-size: 1.5rem;
 
   }
@@ -369,6 +502,10 @@ justify-content: center;
     text-align: center;
     align-content: center;
 
+  }
+
+  .container {
+    margin: 0;
   }
 
   .contact {
@@ -407,6 +544,53 @@ margin-bottom: 30px;
   z-index: -1;
   left: 20%;
   top: 20%
+
+}
+
+/* All Project Pages */
+
+.full-width {
+
+  width: 100%;
+  justify-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column-reverse;
+  margin-bottom: 20px;
+
+}
+
+
+.full-width img {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  margin: 10;
+  padding-bottom: 20px;
+
+}
+
+
+
+.header-background-project {
+
+  background-image: radial-gradient(circle, yellow, transparent, transparent, transparent);
+  height: 50%;
+  width: 50%;
+  position: absolute;
+  z-index: -1;
+  left: 10%;
+  top: 10%;
 
 }
 
