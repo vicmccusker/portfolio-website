@@ -2,14 +2,14 @@
     "items": [
       {
         "title": "birthstone",
-        "name": "Birthstone Generator",
+        "name": "Project One",
         "featured": true,
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
         "pageDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
         "github": "https://github.com/vicmccusker",
         "category": ["Design", "Development"],
-        "coverImage": "/images/birthstone-generator.png",
-        "image": ["/images/birthstone-generator.png", "/images/birthstone-generator-long.png"],
+        "coverImage": "/images/image-placeholder.png",
+        "image": ["/images/image-placeholder.png", "/images/image-placeholder.png"],
         "pageLink": "birthstone.html?project=birthstone"
 
       },

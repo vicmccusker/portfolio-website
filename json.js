@@ -15,7 +15,7 @@ fetch('pages.json').then(function(response) {
         if (portfolioPages) {
             portfolioPages.innerHTML += `<div class="container">
             <a class="project-link" href="${page.pageLink}"><img src=${page.coverImage} alt="project"></img></a>
-            <h3>${page.title}</h3>
+            <h3>${page.name}</h3>
             <h3 class="category">${page.category}</h3>
             <div><a id="githubLink" href=${page.github}>View on Github</a></div>
             </div>`
@@ -56,6 +56,3 @@ function toggleClosed() {
     listClose.classList.remove("active")
     console.log("closed")
 }
-
-
-

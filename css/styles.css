@@ -12,7 +12,7 @@ body {
     margin: 0;
     background-color: var(--background); 
     color: var(--text)
-  
+
 }
 
 .container {
@@ -35,11 +35,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid var(--text);
-  padding-bottom: 20px;
+  padding: 20px 10px 10px 20px;
   font-size: 2rem;
-  padding-top: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
 
 }
 
@@ -47,17 +44,18 @@ nav a {
 
   text-decoration: none;
   color: var(--text);
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 0 10px 0px;
 
 }
 
 nav a:hover {
+  
   background-image: radial-gradient(#00fb9f, transparent);
 
 }
 
 nav a:focus {
+  
   background-image: radial-gradient(#00fb9f, transparent);
 
 }
@@ -72,10 +70,10 @@ i {
 }
 
 header {
+
   margin: 0;
   text-align: center;
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding: 10% 10%;
 
 }
 
@@ -91,19 +89,21 @@ header {
 }
 
 #hello {
+  
   font-size: 2rem;
-  padding-right: 200px;
-  padding-bottom: 10px;
+  padding: 0 200px 10px 0;
+
+}
+
+#first-name {
+
+  padding-right: 300px;
+
 }
 
 #description {
   font-size: 2rem;
-  padding-left: 300px;
-  padding-top: 20px;
-}
-
-#first-name {
-  padding-right: 300px;
+  padding: 20px 0 0 300px;
 }
 
 
@@ -113,8 +113,6 @@ h1 {
   margin: 0;
   font-size: 7rem;
   padding-bottom: 5px;
-  color: var(--text);
-  margin: 0;
 
 }
 
@@ -124,18 +122,14 @@ h2 {
   margin: 0;
   font-size: 5rem;
   padding-bottom: 5px;
-  color: var(--text);
-  margin: 0;
 
 }
 
 h3 {
 
   font-family: 'Raleway', sans-serif;
-  color: var(--text);
   margin: 0;
-  padding-bottom: 10px;
-
+  padding-bottom: 15px;
 
 }
 
@@ -145,26 +139,10 @@ p {
   font-size: 1.5rem;
   font-weight: 300;
   padding-bottom: 10px;
-  color: var(--text);
   margin: 0;
 
 }
 
-p.category {
-  color: var(--text);
-  margin-bottom: 10px;
-}
-
-.portfolio-projects {
-
-  display: flex;  
-  flex-direction: row;
-  flex-flow: row wrap;
-  align-content: center;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  
-}
 
 .featured {
 
@@ -172,13 +150,13 @@ p.category {
   flex-direction: row;
   flex-flow: row wrap;
   align-content: center;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin: 40px 0 40px;
 
 }
 
 
 img {
+
   width: 400px;
   height: 400px;
   object-fit: cover;
@@ -186,11 +164,13 @@ img {
 }
 
 .category {
+
   font-size: 0.9rem;
-  margin: 0;
+
 }
 
 #githubLink {
+
   text-decoration: none;
   color: #463D59;
   border: 0.5px solid #463D59;
@@ -200,6 +180,7 @@ img {
 }
 
 #githubLink:hover{
+
   text-decoration: none;
   background-image: radial-gradient(#00fb9f, transparent);
   border: 0.5px solid #463D59;
@@ -207,10 +188,10 @@ img {
 }
 
 .contact {
+
   display: flex;
   justify-content: space-between;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin: 100px 0 100px;
 
 }
 
@@ -218,8 +199,7 @@ img {
 
   display: flex;
   justify-content: flex-end;
-  margin-bottom: 4%;
-  margin-right: 4%;
+  margin: 0 4% 4% 0;
 
 }
 
@@ -239,18 +219,11 @@ img {
 
 }
 
-.go-to-top:hover {
+.go-to-top:hover{
+
   background-color: var(--text);
-  border: 0.5px solid white;
-  color:var(--background);
+  color:white;
 
-}
-
-s
-
-
-h2 {
-  text-decoration: none;
 }
 
 footer {
@@ -259,11 +232,8 @@ footer {
   justify-content: space-between;
   align-items: center;
   border-top: 1px solid black;
-  padding-bottom: 20px;
+  padding: 20px 10px;
   font-size: 2rem;
-  padding-top: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
 
 }
 
@@ -271,60 +241,53 @@ footer a {
 
   text-decoration: none;
   color: var(--text);
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 0px 10px;
 
 }
 
 footer a:hover {
+
   background-image: radial-gradient(#00fb9f, transparent);
 
 }
 
 footer a:focus {
+
   background-image: radial-gradient(#00fb9f, transparent);
 
 }
 
 /* about page */
 
-.about-page {
-
-margin-left: 50px;
-margin-left: 50px;
-padding: 50px;
-
-}
-
-.about-page h2 {
-  padding-bottom: 20px;
-
-}
-
-
 .text-container {
 
-display: flex;
-flex-direction: row;
+display: grid;
+grid-template-columns: 2fr 1fr;
 gap: 50px;
-margin-top: 5%;
+margin: 50px;
 align-items: center;
 justify-content: center;
+align-content: center;
   
 }
 
 .text-container h2 {
+
   padding-bottom: 30px;
-  color: text;
+
 }
 
 .text-container p {
+
   padding-bottom: 30px;
-  color: text;
+
 }
 
 .profile-image {
-  border-radius: 4px;
+
+  border-radius: 20px;
+  border: 0px transparent;
+
 }
 
 .email-link {
@@ -344,21 +307,60 @@ justify-content: center;
   width: 100%;
   justify-items: center;
   align-items: center;
+  margin: 40px 0 40px;
+
+}
+
+.portfolio-projects {
+
+  display: flex;  
+  flex-direction: row;
+  flex-flow: row wrap;
+  align-content: center;
+  margin: 40px 0 40px;
+  
+}
+
+.full-width img {
+
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
 
 }
 
 
-.full-width img {
+.image-project-page {
+
   width: 100%;
-  height: 500px;
-  object-fit: contain;
+  object-fit: cover;
+  margin-bottom: 20px;
+
+}
+
+#githubLinkPortfolio {
+
+  text-decoration: none;
+  color: #463D59;
+  border: 0.5px solid #463D59;
+  text-align: center;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#githubLinkPortfolio:hover{
+
+  text-decoration: none;
+  background-image: radial-gradient(#00fb9f, transparent);
+  border: 0.5px solid #463D59;
+
 }
 
 .content {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  gap: 20px;
+  gap: 30px;
   align-content: center;
   justify-content: center;
   align-items: center;
@@ -392,7 +394,9 @@ justify-content: center;
 
 @media only screen and (max-width: 768px) {
 
-
+  .container {
+    margin: 0px;
+  }
   
   .nav-links {
     
@@ -437,7 +441,7 @@ justify-content: center;
 
   .nav-links .close {
 
-    display:contents;
+    display: contents;
     border: 0px transparent;
     margin-bottom: 30px;
     width: 20%;
@@ -498,8 +502,7 @@ justify-content: center;
   h1 {
 
     font-family: 'Raleway', sans-serif;
-    margin: 0;
-    font-size: 5rem;
+    font-size: 4rem;
 
   }
 
@@ -512,7 +515,6 @@ justify-content: center;
   h3 {
 
     font-family: 'Raleway', sans-serif;
-    margin-top: 20px;
     font-size: 1.5rem;
 
   }
@@ -520,7 +522,6 @@ justify-content: center;
   p {
 
     font-family: 'Inter', sans-serif;
-    margin: 0;
     font-size: 1.5rem;
     font-weight: 300;
 
@@ -530,6 +531,7 @@ justify-content: center;
 
     text-align: center;
     align-content: center;
+    justify-content: center;
     margin: 0;
     width: auto;
 
@@ -537,24 +539,18 @@ justify-content: center;
 
   .featured img {
 
-
     margin: 0;
-    width: 100%;
     object-fit: cover;
     gap: 0px;
 
   }
 
-  .container {
-    margin: 0;
-  }
-
   .contact {
 
     flex-direction: column;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
 
   }
 
@@ -562,8 +558,6 @@ justify-content: center;
 
     display: flex;
     justify-content: center;
-    margin: 0;
-    width: 100%;
   
   }
 
@@ -576,95 +570,70 @@ justify-content: center;
 
 
 .text-container {
+
 display: flex;
 flex-direction: column-reverse;
 align-items: center;
 justify-content: center;
-height: 100%;
-margin-top: 30px;
-margin-bottom: 30px;
 align-content: center;
-margin: 0;
-width: auto;
+padding: 20px ;
   
 }
 
 .text-container img {
 
 align-content: center;
-margin: 0;
-width: 100%;
+margin-top: 50px;
     
 }
 
-.about-page {
-
-margin: 0;
-text-align: left;
-align-content: center;
-width: auto;
-
-}
 
 /* All Project Pages */
 
-.header {
-  height: 50vh;
-  padding-left: 20px;
+.half {
+  height: 50px;
   margin: 0;
 }
-
-.content {
-
-  width: 100%;
-  margin: 0;
-}
-
 
 .full-width {
 
   text-align: center;
   align-content: center;
   margin: 0;
-  width: auto;
-  height: 100px;
+  gap: 0px 0px;
 
 }
 
 .main-image-project-page {
-  width: auto;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
 }
 
+.image-project-page {
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
 
 .portfolio-projects {
 
-  text-align: center;
+  display: flex;  
+  flex-direction: column;
+  flex-flow: row wrap;
   align-content: center;
-  margin: 0;
-  width: auto;
-
-}
-
-.portfolio-projects img {
-
-
-  margin: 0;
   width: 100%;
-  object-fit: cover;
-  gap: 0px;
-
+  height: auto;
+  margin-bottom: 20px;
+  
 }
 
 
 .content {
+
   display: grid;
   grid-template-columns: 1fr;
-  align-content: center;
-  justify-content: center;
-  align-items: center;
-  justify-items: center;
-  margin: 10;
-  padding-bottom: 20px;
+  grid-template-rows: 1fr;
 
 }
 
