@@ -3,48 +3,46 @@
       {
         "title": "birthstone",
         "name": "Birthstone Generator",
-        "description": "Project One Description",
+        "featured": true,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
         "pageDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
-        "pageDescriptionInDepth": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
-        "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
-        "category": "Design",
+        "category": ["Design", "Development"],
         "coverImage": "/images/birthstone-generator.png",
         "image": ["/images/birthstone-generator.png", "/images/birthstone-generator-long.png"],
-        "pageLink": "birthstone.html?project=birthstone",
-        "video": "/images/Birthstone-Sequence.mp4"
+        "pageLink": "birthstone.html?project=birthstone"
 
       },
       
       {
-        "title": "project two",
-        "name": "Birthstone Generator",
-        "description": "Project One Description",
+        "title": "projecttwo",
+        "name": "Project Two",
+        "featured": true,
+        "description": "Project two Description",
         "pageDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
         "pageDescriptionInDepth": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
-        "toolsUsed": "html",
+        "toolsUsed": "",
         "github": "https://github.com/vicmccusker",
-        "category": "Development | Design",
-        "coverImage": "/images/birthstone-generator.png",
-        "image": "/images/birthstone-generator.png",
-        "pageLink": "birthstone.html?project=birthstone",
-        "video": "/images/Birthstone-Sequence.mp4"
+        "category": "Category",
+        "coverImage": "/images/image-placeholder.png",
+        "image": "/images/image-placeholder.png",
+        "pageLink": "projectTwo.html?project=projecttwo"
 
       },
       
       {
         "title": "project three",
         "name": "Birthstone Generator",
+        "featured": true,
         "description": "Project One Description",
         "pageDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
         "pageDescriptionInDepth": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
         "category": "Development | Design",
-        "coverImage": "/images/birthstone-generator.png",
-        "image": "/images/birthstone-generator.png",
-        "pageLink": "birthstone.html?project=birthstone",
-        "video": "/images/Birthstone-Sequence.mp4"
+        "coverImage": "/images/image-placeholder.png",
+        "image": "/images/image-placeholder.png",
+        "pageLink": "birthstone.html?project=birthstone"
 
       },
 
@@ -57,10 +55,9 @@
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
         "category": "Development | Design",
-        "coverImage": "/images/birthstone-generator.png",
-        "image": "/images/birthstone-generator.png",
-        "pageLink": "birthstone.html?project=birthstone",
-        "video": "/images/Birthstone-Sequence.mp4"
+        "coverImage": "/images/image-placeholder.png",
+        "image": "/images/image-placeholder.png",
+        "pageLink": "birthstone.html?project=birthstone"
       }
     ]
   }

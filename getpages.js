@@ -30,9 +30,6 @@ fetch('pages.json').then(function(response) {
                 <p>${project.pageDescription}</p>
                 <p>${project.description}</p>
                 <div><img class="main-image-project-page" src="${project.image[0]}"></img></div>
-                <video width="320" height="240" autoplay no sound>
-                <source src="${project.video}" type="video/mp4">
-                <source src="movie.ogg" type="video/ogg"> </video>
                 `
 
             } else {

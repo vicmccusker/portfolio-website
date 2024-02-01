@@ -1,5 +1,7 @@
 const portfolioPages = document.querySelector('.portfolio-projects')
 const birthstonePage = document.querySelector('.birthstone')
+const featured = document.querySelector('.featured')
+
 
 fetch('pages.json').then(function(response) {
     return response.json() 
@@ -11,15 +13,28 @@ fetch('pages.json').then(function(response) {
         console.log(page.title)
 
         if (portfolioPages) {
-            portfolioPages.innerHTML += `<div class="portfolio-pages-info container">
-            <a class="project-link" href="${page.pageLink}"> <img src=${page.coverImage} alt="project"></img></a>
+            portfolioPages.innerHTML += `<div class="container">
+            <a class="project-link" href="${page.pageLink}"><img src=${page.coverImage} alt="project"></img></a>
             <h3>${page.title}</h3>
             <h3 class="category">${page.category}</h3>
-            <a id="githubLink" href=${page.github}>View on Github</a>
+            <div><a id="githubLink" href=${page.github}>View on Github</a></div>
             </div>`
         } else {
 
         }
+
+        if (page.featured == true && featured) {
+
+            featured.innerHTML += `<div class="container">
+            <a class="project-link" href="${page.pageLink}"> <img src=${page.coverImage} alt="project"></img></a>
+            <h3>${page.title}</h3>
+            <h3 class="category">${page.category}</h3>
+            <div><a id="githubLink" href=${page.github}>View on Github</a></div>
+            </div>`
+
+        } else {
+
+        }    
 
     }) 
 
@@ -41,5 +56,6 @@ function toggleClosed() {
     listClose.classList.remove("active")
     console.log("closed")
 }
+
 
 

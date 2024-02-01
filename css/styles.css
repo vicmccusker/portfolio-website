@@ -11,6 +11,7 @@ body {
     font-family: 'Raleway', sans-serif;
     margin: 0;
     background-color: var(--background); 
+    color: var(--text)
   
 }
 
@@ -18,6 +19,13 @@ body {
 
   margin: 20px;
   padding: 20px;
+
+}
+
+.container-projects {
+
+  margin: 0px;
+  padding: 0px;
 
 }
 
@@ -59,6 +67,10 @@ nav a:focus {
 
 }
 
+i {
+  color: var(--text);
+}
+
 header {
   margin: 0;
   text-align: center;
@@ -94,11 +106,6 @@ header {
   padding-right: 300px;
 }
 
-#description {
-  font-size: 2rem;
-  padding-left: 300px;
-  padding-top: 20px;
-}
 
 h1 {
 
@@ -107,6 +114,7 @@ h1 {
   font-size: 7rem;
   padding-bottom: 5px;
   color: var(--text);
+  margin: 0;
 
 }
 
@@ -117,15 +125,16 @@ h2 {
   font-size: 5rem;
   padding-bottom: 5px;
   color: var(--text);
+  margin: 0;
 
 }
 
 h3 {
 
   font-family: 'Raleway', sans-serif;
-  margin-bottom: 20px;
-  font-size: 1.5rem;
   color: var(--text);
+  margin: 0;
+  padding-bottom: 10px;
 
 
 }
@@ -135,14 +144,15 @@ p {
   font-family: 'Inter', sans-serif;
   font-size: 1.5rem;
   font-weight: 300;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   color: var(--text);
+  margin: 0;
 
 }
 
 p.category {
-  font-size: 1.2rem;
   color: var(--text);
+  margin-bottom: 10px;
 }
 
 .portfolio-projects {
@@ -151,9 +161,22 @@ p.category {
   flex-direction: row;
   flex-flow: row wrap;
   align-content: center;
-  justify-content: center;
   margin-top: 40px;
+  margin-bottom: 40px;
+  
 }
+
+.featured {
+
+  display: flex;  
+  flex-direction: row;
+  flex-flow: row wrap;
+  align-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+}
+
 
 img {
   width: 400px;
@@ -164,18 +187,16 @@ img {
 
 .category {
   font-size: 0.9rem;
+  margin: 0;
 }
 
 #githubLink {
   text-decoration: none;
   color: #463D59;
   border: 0.5px solid #463D59;
-  width: 150px;
   text-align: center;
   border-radius: 20px;
-  padding: 10px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  padding: 5px;
 }
 
 #githubLink:hover{
@@ -190,6 +211,15 @@ img {
   justify-content: space-between;
   margin-top: 100px;
   margin-bottom: 100px;
+
+}
+
+.go-to-top-container {
+
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 4%;
+  margin-right: 4%;
 
 }
 
@@ -209,10 +239,14 @@ img {
 
 }
 
-i {
-  color:var(--text);
+.go-to-top:hover {
+  background-color: var(--text);
+  border: 0.5px solid white;
+  color:var(--background);
 
 }
+
+s
 
 
 h2 {
@@ -254,6 +288,19 @@ footer a:focus {
 
 /* about page */
 
+.about-page {
+
+margin-left: 50px;
+margin-left: 50px;
+padding: 50px;
+
+}
+
+.about-page h2 {
+  padding-bottom: 20px;
+
+}
+
 
 .text-container {
 
@@ -278,26 +325,6 @@ justify-content: center;
 
 .profile-image {
   border-radius: 4px;
-}
-
-.download-cv {
-
-  background-color: var(--background);
-  border: 0.5px solid var(--text);
-  padding: 20px 20px;
-  border-radius: 4px;
-  font-weight: 600;
-
-}
-
-.download-cv:hover {
-
-  background: radial-gradient(41.33% 41.33% at 50% 50%,#00fb9f 0,rgba(196, 255, 238, 0) 100%);
-  border: 1px solid var(--text);
-  padding: 20px 20px;
-  border-radius: 4px;
-  font-weight: 800;
-
 }
 
 .email-link {
@@ -429,6 +456,7 @@ justify-content: center;
     align-items: center;
     justify-content: center;
     margin: 0px;
+    padding: 30px;
     height: 40vh;
 
   }
@@ -461,8 +489,6 @@ justify-content: center;
 
   }
 
-
-  
   #description {
     font-size: 1.7rem;
     padding: 0px;
@@ -479,7 +505,7 @@ justify-content: center;
 
   h2 {
 
-    font-size: 3em;
+    font-size: 2em;
 
   }
 
@@ -500,18 +526,22 @@ justify-content: center;
 
   }
 
-  .portfolio-projects {
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-  }
-
-  #featured {
+  .featured {
 
     text-align: center;
     align-content: center;
+    margin: 0;
+    width: auto;
+
+  }
+
+  .featured img {
+
+
+    margin: 0;
+    width: 100%;
+    object-fit: cover;
+    gap: 0px;
 
   }
 
@@ -524,7 +554,17 @@ justify-content: center;
     flex-direction: column;
     margin-top: 100px;
     margin-bottom: 100px;
+    margin: 0;
 
+  }
+
+  .go-to-top-container {
+
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    width: 100%;
+  
   }
 
   .footer {
@@ -534,8 +574,8 @@ justify-content: center;
 
 /* about page */
 
-.text-container {
 
+.text-container {
 display: flex;
 flex-direction: column-reverse;
 align-items: center;
@@ -543,41 +583,78 @@ justify-content: center;
 height: 100%;
 margin-top: 30px;
 margin-bottom: 30px;
+align-content: center;
+margin: 0;
+width: auto;
   
 }
 
-.header-background-about {
+.text-container img {
 
-  background-image: radial-gradient(circle, yellow, transparent, transparent);
-  height: 100%;
-  width: 100%;
-  position: block;
-  z-index: -1;
-  left: 20%;
-  top: 20%
+align-content: center;
+margin: 0;
+width: 100%;
+    
+}
+
+.about-page {
+
+margin: 0;
+text-align: left;
+align-content: center;
+width: auto;
 
 }
 
 /* All Project Pages */
 
+.header {
+  height: 50vh;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.content {
+
+  width: 100%;
+  margin: 0;
+}
+
+
 .full-width {
 
-  width: 100%;
-  justify-items: center;
-  align-items: center;
-  display: flex;
-  flex-direction: column-reverse;
-  margin-bottom: 20px;
+  text-align: center;
+  align-content: center;
+  margin: 0;
+  width: auto;
+  height: 100px;
 
 }
 
+.main-image-project-page {
+  width: auto;
+}
 
-.full-width img {
-  width: 100%;
-  height: 500px;
-  object-fit: contain;
+
+.portfolio-projects {
+
+  text-align: center;
+  align-content: center;
+  margin: 0;
+  width: auto;
 
 }
+
+.portfolio-projects img {
+
+
+  margin: 0;
+  width: 100%;
+  object-fit: cover;
+  gap: 0px;
+
+}
+
 
 .content {
   display: grid;
@@ -591,8 +668,6 @@ margin-bottom: 30px;
 
 }
 
-
-
 .header-background-project {
 
   background-image: radial-gradient(circle, yellow, transparent, transparent, transparent);
@@ -604,7 +679,6 @@ margin-bottom: 30px;
   top: 10%;
 
 }
-
 
 }
 
