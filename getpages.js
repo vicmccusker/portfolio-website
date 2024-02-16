@@ -4,6 +4,7 @@ const content = document.querySelector('.content');
 const header = document.querySelector('.header-project-pages')
 const videoContainer = document.querySelector('.video-container')
 const fullWidth = document.querySelector('.full-width')
+const fullWidth02 = document.querySelector('.full-width02')
 
 
 
@@ -22,15 +23,32 @@ fetch('pages.json').then(function(response) {
 
                 fullWidth.innerHTML +=
                 `<img class="main-image-project-page" src="${project.image[1]}"></img>
-                <a id="githubLinkPortfolio" href=${project.github}>View on Github</a>
                 `
+
+                if (project.showOnGithub == true && fullWidth) {
+
+                    ` <a id="githubLinkPortfolio" href=${project.github}>View on Github</a>`
+        
+                } else {
+        
+                }  
 
                 content.innerHTML += 
                 `<div><img class="image-project-page" src="${project.image[0]}"></img></div>
-                <p>${project.pageDescription}</p>
                 <p>${project.description}</p>
-                <div><img class="image-project-page" src="${project.image[0]}"></img></div>
+                <p>${project.pageDescription}</p>
+                <div><img class="image-project-page" src="${project.image[2]}"></img></div>
+                <div>
                 `
+
+                fullWidth02.innerHTML +=
+                `<div><h2>Skills Used</h2>
+                <p class="skills-used">${project.skills}</p></div>
+                <p>${project.acknowledgements[0]}</p>
+                <p>${project.acknowledgements[1]}</p>
+                <p>${project.acknowledgements[2]}</p>
+                `
+
 
             } else {
                 console.log("fail")           
