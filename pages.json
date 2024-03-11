@@ -7,6 +7,7 @@
         "pageDescription": "",
         "description": "The birthstone generator displays your birthstone using a dropdown selector.",
         "github": "https://github.com/vicmccusker",
+        "showOnGithub": true,
         "category": ["Design", " Development"],
         "coverImage": "/images/image-placeholder.png",
         "image": ["/images/birthstone-generator-long.png", "/images/birthstone-generator-long.png"],
@@ -20,47 +21,50 @@
         "title": "cardiffBookshopMap",
         "name": "Cardiff Bookshop Map",
         "featured": true,
-        "pageDescription": "Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibon's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.",
+        "pageDescription": "<br>Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibson's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.",
         "description": "The Cardiff Bookshop Map is a not-for-profit project offering greater visibility to Cardiff's independent bookshops and reading rooms. The map was available physically (in 2022) from ArcadeCampfa and independent bookshops across Cardiff.",
         "github": "https://github.com/vicmccusker",
         "showOnGithub": false,
-        "category": ["Design", " Development"],
-        "coverImage": "/images/CardiffBookshopMap/bd8c3409-054a-43b5-81ac-0445e5c66b89_rw_1920.jpg",
-        "image": ["/images/CardiffBookshopMap/5347e858-8500-4d5a-a871-0bb89c90c975_rw_1920.jpg", "/images/CardiffBookshopMap/28fd32f1-aecc-408d-ba24-371b6893f433_rw_1920.jpg", "/images/CardiffBookshopMap/7303f8f8-f49b-4f47-94dd-82b1602cc27a_rw_1920.jpg"],
+        "category": ["Design"],
+        "coverImage": "images/CardiffBookshopMap/CBS5.png",
+        "image": ["/images/CardiffBookshopMap/CBS1.png", "/images/CardiffBookshopMap/CBS2.png", "/images/CardiffBookshopMap/CBS3.png", "/images/CardiffBookshopMap/CBS4.png" ],
         "pageLink": "birthstone.html?project=cardiffBookshopMap",
-        "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"],
+        "skills": ["Print Design"],
         "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
 
       },
       
       {
-        "title": "Project Three",
-        "name": "Project Three",
+        "title": "vaniday",
+        "name": "Vaniday",
         "featured": true,
-        "description": "Project One Description",
-        "pageDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
-        "pageDescriptionInDepth": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
+        "description": "A beauty and wellness app",
+        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.",
+        "pageDescriptionInDepth": "Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional). Print design included flyers and posters to be distributed across all markets. I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
-        "category": "Category",
-        "coverImage": "/images/image-placeholder.png",
-        "image": "/images/image-placeholder.png",
-        "pageLink": "birthstone.html?project=birthstone"
+        "showOnGithub": false,
+        "category": ["Design"],
+        "coverImage": "/images/Vaniday/Vaniday-01.png",
+        "image": ["/images/Vaniday/Vaniday-01.png", "/images/Vaniday/Vaniday-02.png", "/images/Vaniday/Vaniday-03.png","/images/Vaniday/Vaniday-04.png" ],
+        "pageLink": "vaniday.html?project=vaniday"
 
       },
 
       {
-        "title": "Project Four",
-        "name": "Project Four",
-        "description": "Project One Description",
-        "pageDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
-        "pageDescriptionInDepth": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima hic pariatur harum doloribus voluptatibus autem aliquid ut magnam provident commodi aliquam reiciendis eius, alias incidunt iste, animi asperiores, natus vero!",
+        "title": "calibreAudio",
+        "name": "Calibre Audio",
+        "featured": true,
+        "description": "Calibre Audio",
+        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.",
+        "pageDescriptionInDepth": "Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional). Print design included flyers and posters to be distributed across all markets. I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
         "toolsUsed": "html",
         "github": "https://github.com/vicmccusker",
-        "category": "Category",
-        "coverImage": "/images/image-placeholder.png",
-        "image": "/images/image-placeholder.png",
-        "pageLink": "birthstone.html?project=birthstone"
+        "showOnGithub": false,
+        "category": ["Design"],
+        "coverImage": "/images/CalibreAudio/Calibre_Audio.jpg",
+        "image": ["/images/CalibreAudio/Calibre1.png", "/images/CalibreAudio/Calibre2.png", "/images/CalibreAudio/Calibre3.png", "/images/CalibreAudio/Calibre4.png"],
+        "pageLink": "calibreAudio.html?project=calibreAudio"
       }
     ]
   }

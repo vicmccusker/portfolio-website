@@ -17,13 +17,9 @@ fetch('pages.json').then(function(response) {
 
         data.items.forEach(function (project) {    
             if (project.title === requestedProject) {
-                console.log("win")  
                 header.innerHTML += 
                 `<h1 class=half>${project.name}</h1>`
 
-                fullWidth.innerHTML +=
-                `<img class="main-image-project-page" src="${project.image[1]}"></img>
-                `
 
                 if (project.showOnGithub == true && fullWidth) {
 
@@ -34,16 +30,23 @@ fetch('pages.json').then(function(response) {
                 }  
 
                 content.innerHTML += 
-                `<div><img class="image-project-page" src="${project.image[0]}"></img></div>
+                `<div>
                 <p>${project.description}</p>
-                <p>${project.pageDescription}</p>
-                <div><img class="image-project-page" src="${project.image[2]}"></img></div>
-                <div>
+                <p>${project.pageDescription}</p></div>
+                
+                <img class="image-project-page" src="${project.image[0]}"></img></div>
+                <div></div>
+                <div><img class="image-project-page" src="${project.image[1]}"></img></div>
+                <div></div>
+                <div><img class="image-project-page" src="${project.image[2]}"></img>
+                <div></div>
+                <div><img class="image-project-page" src="${project.image[3]}"></img>
                 `
 
                 fullWidth02.innerHTML +=
-                `<div><h2>Skills Used</h2>
+                `<div><h4>Skills Used</h4>
                 <p class="skills-used">${project.skills}</p></div>
+                <h4>Acknowledgements</h4>
                 <p>${project.acknowledgements[0]}</p>
                 <p>${project.acknowledgements[1]}</p>
                 <p>${project.acknowledgements[2]}</p>
@@ -51,7 +54,7 @@ fetch('pages.json').then(function(response) {
 
 
             } else {
-                console.log("fail")           
+            
             }
         })
     

@@ -26,6 +26,7 @@ body {
 
   margin: 0px;
   padding: 0px;
+
 }
 
 nav {
@@ -128,6 +129,15 @@ h3 {
 
   font-family: 'Raleway', sans-serif;
   margin: 0;
+  padding-bottom: 15px;
+
+}
+
+h4 {
+
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  font-size: 2rem;
   padding-bottom: 15px;
 
 }
@@ -397,7 +407,7 @@ width: 100%;
 
 .content {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 3fr;
   grid-template-rows: 1fr 1fr;
   gap: 30px;
   align-content: center;
@@ -417,6 +427,22 @@ width: 100%;
   left: 10%;
   top: 10%;
 
+}
+
+div.scroll-container {
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+
+.invisible-scrollbar::-webkit-scrollbar {
+  background-color: none;
+  color: #FCF200;;
 }
 
 @media only screen and (max-width: 1309px) {
@@ -643,7 +669,7 @@ max-width: 100%;
 /* All Project Pages */
 
 .half {
-  height: 50px;
+  height: 0px;
   margin: 0;
 }
 
@@ -733,7 +759,6 @@ ul {
 
 .skills-used {
   font-size: 2rem;
-  margin-bottom: 20px;
 }
 
 }
