@@ -46,7 +46,7 @@
         "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-blogging-site/",
         "showOnGithub": true,
         "category": ["Back End Development"],
-        "coverImage": "images/BloggingWebsite/BLOG01.png",
+        "coverImage": "images/BloggingWebsite/BW01.png",
         "image": ["images/BloggingWebsite/BLOG04.png", "images/BloggingWebsite/BLOG01.png", "images/BloggingWebsite/BLOG02.png", "images/BloggingWebsite/BLOG03.png"],
         "pageLink": "bloggingWebsite.html?project=bloggingWebsite",
         "skills": ["PHP, MySQL, PHPUnit, OOP"],
