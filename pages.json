@@ -16,6 +16,22 @@
         "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
 
       },
+
+      {
+        "title": "jobsearchWebsite",
+        "name": "Jobsearch Website",
+        "featured": true,
+        "description": "Jobsearch Website",
+        "pageDescription": "",
+        "pageDescriptionInDepth": "",
+        "toolsUsed": "HTML, CSS, Javascript, React, Git, Github, Tailwind",
+        "github": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
+        "showOnGithub": true,
+        "category": ["Front End Development"],
+        "coverImage": "images/JobSearch/JS01.png",
+        "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
+        "pageLink": "jobsearchWebsite.html?project=jobsearchWebsite"
+      },
       
       {
         "title": "cardiffBookshopMap",
@@ -65,22 +81,6 @@
         "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
         "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
         "pageLink": "calibreAudio.html?project=calibreAudio"
-      }
-
-      {
-        "title": "jobsearchWebsite",
-        "name": "Jobsearch Website",
-        "featured": true,
-        "description": "Jobsearch Website",
-        "pageDescription": "",
-        "pageDescriptionInDepth": "",
-        "toolsUsed": "HTML, CSS, Javascript, React, Git, Github, Tailwind",
-        "github": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
-        "showOnGithub": true,
-        "category": ["Front End Development"],
-        "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
-        "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
-        "pageLink": "jobsearchWebsite.html?project=jobsearchWebsite"
       }
 
 
