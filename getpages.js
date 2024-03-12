@@ -23,33 +23,51 @@ fetch('pages.json').then(function(response) {
 
                 if (project.showOnGithub == true && fullWidth) {
 
-                    ` <a id="githubLinkPortfolio" href=${project.github}>View on Github</a>`
+                    fullWidth.innerHTML += 
+
+                    
+                    `<div></div><div><a id="githubLink" href=${project.github}>View on Github</a>
+                    <a id="githubLink" href=${project.github}>View Live</a></div>`
+                    
         
                 } else {
         
                 }  
 
                 content.innerHTML += 
-                `<div>
-                <p>${project.description}</p>
+                `
+                <div class="left-container">
                 <p>${project.pageDescription}</p></div>
+            
+                <div>
+                <img class="image-project-page" src="${project.image[0]}"></img>
+                <img class="image-project-page" src="${project.image[1]}"></img>
+                <img class="image-project-page" src="${project.image[2]}"></img>
+                <img class="image-project-page" src="${project.image[3]}"></img></div>
+
                 
-                <img class="image-project-page" src="${project.image[0]}"></img></div>
-                <div></div>
-                <div><img class="image-project-page" src="${project.image[1]}"></img></div>
-                <div></div>
-                <div><img class="image-project-page" src="${project.image[2]}"></img>
-                <div></div>
-                <div><img class="image-project-page" src="${project.image[3]}"></img>
                 `
 
                 fullWidth02.innerHTML +=
-                `<div><h4>Skills Used</h4>
-                <p class="skills-used">${project.skills}</p></div>
-                <h4>Acknowledgements</h4>
-                <p>${project.acknowledgements[0]}</p>
-                <p>${project.acknowledgements[1]}</p>
-                <p>${project.acknowledgements[2]}</p>
+                `
+
+                <table>
+                  <tr>
+                    <td><h4>Skills Used</h4></td>
+                  </tr>
+                  <tr>
+                    <td><p>${project.skills}</p></td>
+                  </tr>
+                </table>
+
+                <table>
+                <tr>
+                  <td><h4>Acknowledgements<h4></td>
+                </tr>
+                <tr>
+                  <td><p>${project.acknowledgements[0]}</p></td>
+                </tr>
+              </table>
                 `
 
 

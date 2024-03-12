@@ -21,16 +21,36 @@
         "title": "jobsearchWebsite",
         "name": "Jobsearch Website",
         "featured": true,
-        "description": "Jobsearch Website",
-        "pageDescription": "",
-        "pageDescriptionInDepth": "",
+        "description": "Developed during my time at iO Academy, this jobsearch website was developed using the Front-End framework, React.<br><br>In a team of five, we used Agile, Scrum and Pair-Programming techniques within this project, which spanned four days. By mapping out a component tree at the beginning of our project, it allowed us to visualise the structure of our website. Then, working in an Agile methodology, we split the Stories (tasks) into smaller tasks for our pair-programming teams to work on simultaneously.",
+        "pageDescription": "The website uses a pre-build RESTful API. We used Fetch techniques to display the required filtering including the individual job IDs on the singular job page. The search command filters by keyword.",
         "toolsUsed": "HTML, CSS, Javascript, React, Git, Github, Tailwind",
-        "github": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
+        "link": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
+        "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-jobsearch",
         "showOnGithub": true,
         "category": ["Front End Development"],
         "coverImage": "images/JobSearch/JS01.png",
-        "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
-        "pageLink": "jobsearchWebsite.html?project=jobsearchWebsite"
+        "image": ["images/JobSearch/JS02.png", "images/JobSearch/JS03.png", "images/JobSearch/JS04.png"],
+        "pageLink": "jobsearchWebsite.html?project=jobsearchWebsite",
+        "skills": ["React, Tailwind, HTML, CSS, Git, Github, Pair Programming, Agile, Scrum"],
+        "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
+      },
+
+      {
+        "title": "bloggingWebsite",
+        "name": "Blogging Website",
+        "featured": true,
+        "pageDescription": "Developed during my time at iO Academy, this blogging website was developed using PHP and populated by using a MySQL Database. In a team of five, we used Agile, Scrum and Pair-Programming techniques. The project in total spanned four days. <br><br>We first visualised the project by creating a diagram that mapped out our Models, Entities and Classes. From here, we created a MySQL database that we used for Users, Blogs, Comments and Reactions. <br><br>Using Object Oriented Programming, the blogging website includes a register feature which adds a new User to the database and a login feature which logs an existing user in. Users are able to create blog posts, comment on posts and determine whether they 'like' or 'dislike' posts. Any posts that have 1.5x the amount of dislikes are flagged as 'controversial'. <br><br>The front-end HTML and Tailwind CSS were provided, they are displayed using PHP. Unit tests were done using PHPUnit",
+        "pageDescriptionInDepth": "",
+        "toolsUsed": "MySQL, PHP, Git, Github",
+        "link": "https://24-frolickingfrogs-blog.dev.io-academy.uk/",
+        "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-blogging-site/",
+        "showOnGithub": true,
+        "category": ["Back End Development"],
+        "coverImage": "images/BloggingWebsite/BLOG01.png",
+        "image": ["images/BloggingWebsite/BLOG04.png", "images/BloggingWebsite/BLOG01.png", "images/BloggingWebsite/BLOG02.png", "images/BloggingWebsite/BLOG03.png"],
+        "pageLink": "bloggingWebsite.html?project=bloggingWebsite",
+        "skills": ["PHP, MySQL, PHPUnit, OOP"],
+        "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
       },
       
       {
