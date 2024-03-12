@@ -26,8 +26,8 @@ fetch('pages.json').then(function(response) {
                     fullWidth.innerHTML += 
 
                     
-                    `<div></div><div><a id="githubLink" href=${project.github}>View on Github</a>
-                    <a id="githubLink" href=${project.github}>View Live</a></div>`
+                    `<div></div><div><a id="githubLink" target=”_blank” href=${project.github}>View on Github</a>
+                    <a id="githubLink" target=”_blank” href=${project.link}>View Live</a></div>`
                     
         
                 } else {

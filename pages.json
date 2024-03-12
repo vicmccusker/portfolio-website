@@ -1,19 +1,21 @@
 {
     "items": [
       {
+
+
+
         "title": "birthstone",
         "name": "Birthstone Generator",
         "featured": true,
-        "pageDescription": "",
-        "description": "The birthstone generator displays your birthstone using a dropdown selector.",
-        "github": "https://github.com/vicmccusker",
+        "pageDescription": "The birthstone generator displays your birthstone using a dropdown selector.",
+        "link": "https://vicmccusker.github.io/birthstone-generator/",
+        "github": "https://github.com/vicmccusker/birthstone-generator",
         "showOnGithub": true,
-        "category": ["Design", " Development"],
+        "category": ["Digital Design", "Front End Development"],
         "coverImage": "images/image-placeholder.png",
-        "image": ["images/birthstone-generator-long.png", "images/birthstone-generator-long.png"],
+        "image": ["images/Birthstone/BS01.png", "images/Birthstone/BS02.png", "images/Birthstone/BS03.png", "images/Birthstone/BS04.png"],
         "pageLink": "birthstone.html?project=birthstone",
-        "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"],
-        "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
+        "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"]
 
       },
 
