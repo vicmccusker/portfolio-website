@@ -27,7 +27,7 @@
         "showOnGithub": false,
         "category": ["Design"],
         "coverImage": "images/CardiffBookshopMap/CBS5.png",
-        "image": ["/images/CardiffBookshopMap/CBS1.png", "/images/CardiffBookshopMap/CBS2.png", "/images/CardiffBookshopMap/CBS3.png", "/images/CardiffBookshopMap/CBS4.png" ],
+        "image": ["images/CardiffBookshopMap/CBS1.png", "images/CardiffBookshopMap/CBS2.png", "images/CardiffBookshopMap/CBS3.png", "images/CardiffBookshopMap/CBS4.png" ],
         "pageLink": "birthstone.html?project=cardiffBookshopMap",
         "skills": ["Print Design"],
         "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
