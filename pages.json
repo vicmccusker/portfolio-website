@@ -9,7 +9,7 @@
         "github": "https://github.com/vicmccusker",
         "showOnGithub": true,
         "category": ["Design", " Development"],
-        "coverImage": "/images/image-placeholder.png",
+        "coverImage": "images/image-placeholder.png",
         "image": ["/images/birthstone-generator-long.png", "/images/birthstone-generator-long.png"],
         "pageLink": "birthstone.html?project=birthstone",
         "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"],
@@ -45,7 +45,7 @@
         "github": "https://github.com/vicmccusker",
         "showOnGithub": false,
         "category": ["Design"],
-        "coverImage": "/images/Vaniday/Vaniday-01.png",
+        "coverImage": "images/Vaniday/Vaniday-01.png",
         "image": ["/images/Vaniday/Vaniday-01.png", "/images/Vaniday/Vaniday-02.png", "/images/Vaniday/Vaniday-03.png","/images/Vaniday/Vaniday-04.png" ],
         "pageLink": "vaniday.html?project=vaniday"
 
@@ -62,7 +62,7 @@
         "github": "https://github.com/vicmccusker",
         "showOnGithub": false,
         "category": ["Design"],
-        "coverImage": "/images/CalibreAudio/Calibre_Audio.jpg",
+        "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
         "image": ["/images/CalibreAudio/Calibre1.png", "/images/CalibreAudio/Calibre2.png", "/images/CalibreAudio/Calibre3.png", "/images/CalibreAudio/Calibre4.png"],
         "pageLink": "calibreAudio.html?project=calibreAudio"
       }
