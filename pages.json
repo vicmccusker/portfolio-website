@@ -10,7 +10,7 @@
         "showOnGithub": true,
         "category": ["Design", " Development"],
         "coverImage": "images/image-placeholder.png",
-        "image": ["/images/birthstone-generator-long.png", "/images/birthstone-generator-long.png"],
+        "image": ["images/birthstone-generator-long.png", "images/birthstone-generator-long.png"],
         "pageLink": "birthstone.html?project=birthstone",
         "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"],
         "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
@@ -46,7 +46,7 @@
         "showOnGithub": false,
         "category": ["Design"],
         "coverImage": "images/Vaniday/Vaniday-01.png",
-        "image": ["/images/Vaniday/Vaniday-01.png", "/images/Vaniday/Vaniday-02.png", "/images/Vaniday/Vaniday-03.png","/images/Vaniday/Vaniday-04.png" ],
+        "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png" ],
         "pageLink": "vaniday.html?project=vaniday"
 
       },
@@ -63,7 +63,7 @@
         "showOnGithub": false,
         "category": ["Design"],
         "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
-        "image": ["/images/CalibreAudio/Calibre1.png", "/images/CalibreAudio/Calibre2.png", "/images/CalibreAudio/Calibre3.png", "/images/CalibreAudio/Calibre4.png"],
+        "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
         "pageLink": "calibreAudio.html?project=calibreAudio"
       }
     ]
