@@ -38,19 +38,20 @@ fetch('pages.json').then(function(response) {
                 `
                 <div class="left-container">
                 <p>${project.pageDescription}</p></div>
-            
-                <div>
-                <img class="image-project-page" src="${project.image[0]}"></img>
-                <img class="image-project-page" src="${project.image[1]}"></img>
-                <img class="image-project-page" src="${project.image[2]}"></img>
-                <img class="image-project-page" src="${project.image[3]}"></img></div>
-
-                
+              
                 `
+
+                for (let i=0; i < project.image.length; i++) {
+
+                content.innerHTML += 
+
+                `
+                <img src="project.image[i]"></img>
+                `
+                }
 
                 fullWidth02.innerHTML +=
                 `
-
                 <table>
                   <tr>
                     <td><h4>Skills Used</h4></td>

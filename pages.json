@@ -2,8 +2,6 @@
     "items": [
       {
 
-
-
         "title": "birthstone",
         "name": "Birthstone Generator",
         "featured": true,
@@ -12,7 +10,7 @@
         "github": "https://github.com/vicmccusker/birthstone-generator",
         "showOnGithub": true,
         "category": ["Digital Design", "Front End Development"],
-        "coverImage": "images/image-placeholder.png",
+        "coverImage": "images/Birthstone/BS05.png",
         "image": ["images/Birthstone/BS01.png", "images/Birthstone/BS02.png", "images/Birthstone/BS03.png", "images/Birthstone/BS04.png"],
         "pageLink": "birthstone.html?project=birthstone",
         "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"]
@@ -51,6 +49,23 @@
         "image": ["images/BloggingWebsite/BLOG04.png", "images/BloggingWebsite/BLOG01.png", "images/BloggingWebsite/BLOG02.png", "images/BloggingWebsite/BLOG03.png"],
         "pageLink": "bloggingWebsite.html?project=bloggingWebsite",
         "skills": ["PHP, MySQL, PHPUnit, OOP"],
+        "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
+      },
+
+      {
+        "title": "interactiveRatingComponent",
+        "name": "Jobsearch Website",
+        "featured": true,
+        "pageDescription": "Developed during my time at iO Academy, this blogging website was developed using PHP and populated by using a MySQL Database. In a team of five, we used Agile, Scrum and Pair-Programming techniques. The project in total spanned four days. <br><br>We first visualised the project by creating a diagram that mapped out our Models, Entities and Classes. From here, we created a MySQL database that we used for Users, Blogs, Comments and Reactions. <br><br>Using Object Oriented Programming, the blogging website includes a register feature which adds a new User to the database and a login feature which logs an existing user in. Users are able to create blog posts, comment on posts and determine whether they ‘like’ or ‘dislike’ posts. Any posts that have 1.5x the amount of dislikes are flagged as ‘controversial’. <br><br>The front-end HTML and Tailwind CSS were provided, they are displayed using PHP.",
+        "toolsUsed": "HTML, CSS, Javascript, React, Git, Github, Tailwind",
+        "link": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
+        "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-jobsearch",
+        "showOnGithub": true,
+        "category": ["Front End Development"],
+        "coverImage": "images/JobSearch/JS01.png",
+        "image": ["images/JobSearch/JS02.png", "images/JobSearch/JS03.png", "images/JobSearch/JS04.png"],
+        "pageLink": "jobsearchWebsite.html?project=jobsearchWebsite",
+        "skills": ["React, Tailwind, HTML, CSS, Git, Github, Pair Programming, Agile, Scrum"],
         "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
       },
       
