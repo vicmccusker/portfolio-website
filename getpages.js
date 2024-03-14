@@ -47,7 +47,7 @@ fetch('pages.json').then(function(response) {
 
                   content02.innerHTML +=
               
-                 `<img class="image-product-page" src="${project.image[i]}"></img>`
+                 `<img class="image-project-page" src="${project.image[i]}"></img>`
                
                 }
 
