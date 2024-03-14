@@ -1,6 +1,8 @@
 const urlParams = new URLSearchParams(window.location.search); // Gets the data from the URL
 const requestedProject = urlParams.get('project');  
 const content = document.querySelector('.content');
+const content02 = document.querySelector('.content02');
+const leftContainer = document.querySelector('.left-container');
 const header = document.querySelector('.header-project-pages')
 const videoContainer = document.querySelector('.video-container')
 const fullWidth = document.querySelector('.full-width')
@@ -34,21 +36,23 @@ fetch('pages.json').then(function(response) {
         
                 }  
 
-                content.innerHTML += 
+                leftContainer.innerHTML += 
                 `
                 <div class="left-container">
                 <p>${project.pageDescription}</p></div>
               
                 `
 
-                for (let i=0; i < project.image.length; i++) {
+                for (let i=0; i < project.image.length; i++ ) {
 
-                content.innerHTML += 
-
-                `
-                <img src="project.image[i]"></img>
-                `
+                  content02.innerHTML +=
+              
+                 `<img class="image-product-page" src="${project.image[i]}"></img>`
+               
                 }
+
+                append(content, Image)
+
 
                 fullWidth02.innerHTML +=
                 `

@@ -419,7 +419,7 @@ width: 100%;
 
 }
 
-.content img {
+.content02 img {
 
   display: block;
   justify-content: top;
@@ -788,13 +788,10 @@ ul {
 }
 
 .left-container {
-  display: flex;
+
   position: relative;
   margin: 0;
   padding: 0;
-  width: auto;
-  margin-left: 20px;
-  margin-right: 20px;
 
 }
 
