@@ -19,7 +19,6 @@ fetch('pages.json').then(function(response) {
             <h3 class="category">${page.category}</h3>
             </div>`
         } else {
-
         }
 
         if (page.featured == true && featured) {
@@ -29,13 +28,10 @@ fetch('pages.json').then(function(response) {
             <h3>${page.name}</h3>
             <h3 class="category">${page.category}</h3>
             </div>`
-
+            
         } else {
-
         } 
-
     }) 
-
 }) 
 
 

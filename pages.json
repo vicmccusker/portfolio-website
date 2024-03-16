@@ -72,7 +72,7 @@
       {
         "title": "cardiffBookshopMap",
         "name": "Cardiff Bookshop Map",
-        "featured": true,
+        "featured": false,
         "pageDescription": "<br>Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibson's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.<br><br>The Cardiff Bookshop Map is a not-for-profit project offering greater visibility to Cardiff's independent bookshops and reading rooms. The map was available physically (in 2022) from ArcadeCampfa and independent bookshops across Cardiff.",
         "github": "https://github.com/vicmccusker",
         "showOnGithub": false,
@@ -88,7 +88,7 @@
       {
         "title": "vaniday",
         "name": "Vaniday",
-        "featured": true,
+        "featured": false,
         "description": "A beauty and wellness app",
         "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
         "showOnGithub": false,
@@ -102,7 +102,7 @@
       {
         "title": "calibreAudio",
         "name": "Calibre Audio",
-        "featured": true,
+        "featured": false,
         "description": "Calibre Audio",
         "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br>Whilst freelancing for Calibre Audio, I have been responsible for flyer and banner design for events plus designing the 2022-2023 Impact report.",
         "showOnGithub": false,

@@ -26,22 +26,18 @@ fetch('pages.json').then(function(response) {
                 if (project.showOnGithub == true && fullWidth) {
 
                     fullWidth.innerHTML += 
-
                     
                     `<div></div><div><a id="githubLink" target=”_blank” href=${project.github}>View on Github</a>
                     <a id="githubLink" target=”_blank” href=${project.link}>View Live</a></div>`
                     
-        
                 } else {
         
                 }  
 
                 leftContainer.innerHTML += 
-                `
-                <div class="left-container">
-                <p>${project.pageDescription}</p></div>
-              
-                `
+
+                `<div class="left-container">
+                <p>${project.pageDescription}</p></div>`
 
                 for (let i=0; i < project.image.length; i++ ) {
 
@@ -50,31 +46,6 @@ fetch('pages.json').then(function(response) {
                  `<img class="image-project-page" src="${project.image[i]}"></img>`
                
                 }
-
-                append(content, Image)
-
-
-                fullWidth02.innerHTML +=
-                `
-                <table>
-                  <tr>
-                    <td><h4>Skills Used</h4></td>
-                  </tr>
-                  <tr>
-                    <td><p>${project.skills}</p></td>
-                  </tr>
-                </table>
-
-                <table>
-                <tr>
-                  <td><h4>Acknowledgements<h4></td>
-                </tr>
-                <tr>
-                  <td><p>${project.acknowledgements[0]}</p></td>
-                </tr>
-              </table>
-                `
-
 
             } else {
             
