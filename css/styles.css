@@ -703,6 +703,18 @@ max-width: 100%;
 
 }
 
+.header-background-portfolio {
+
+  background-image: radial-gradient(circle, yellow, transparent, transparent, transparent);
+  height: 50%;
+  width: 50%;
+  position: absolute;
+  z-index: -1;
+  left: 10%;
+  top: 10%;
+
+}
+
 
 
 /* All Project Pages */
