@@ -68,6 +68,21 @@
         "skills": ["React, Tailwind, HTML, CSS, Git, Github, Pair Programming, Agile, Scrum"],
         "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
       },
+
+      {
+        "title": "pizzaWebsite",
+        "name": "Pizza Website",
+        "featured": true,
+        "description": "Pizza Website",
+        "pageDescription": "A landing page design and front-end development solution for a Pizza Website. As a work in progress, I will be working to add the following pages and interactivity.",
+        "link": "https://vicmccusker.github.io/pizza-restaurant-fe/",
+        "github": "https://github.com/vicmccusker/pizza-restaurant-fe",
+        "showOnGithub": true,
+        "category": ["Digital Design, Front End Development"],
+        "coverImage": "images/PizzaRestaurant/PR01.png",
+        "image": ["images/PizzaRestaurant/PW03.png", "images/PizzaRestaurant/PW02.png"],
+        "pageLink": "pizzaWebsite.html?project=pizzaWebsite"
+      },
       
       {
         "title": "cardiffBookshopMap",
