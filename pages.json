@@ -83,6 +83,21 @@
         "image": ["images/PizzaRestaurant/PW03.png", "images/PizzaRestaurant/PW02.png"],
         "pageLink": "pizzaWebsite.html?project=pizzaWebsite"
       },
+
+      {
+        "title": "hotelBookingWebsite",
+        "name": "Hotel Booking Website",
+        "featured": true,
+        "description": "Hotel Booking Website",
+        "pageDescription": "Developed during my time at iO Academy, as a team we built an API for a Hotel Booking site for employees of that Hotel.<br><br>The API has the following functionalities:<br><br>- Show all rooms and filter by number of guests, room type and availability Dates<br><br>- Show individual rooms and allow bookings for that room. Bookings are created with the Customer Name, amount of guests, Start Date, End Date and shows current bookings<br><br>- Show upcoming bookings, filter by room and with the ability to cancel a booking.<br><br>The API was built using Laravel and PHP. We were responsible for the Back-End component of this project that linked to an existing Front-End.",
+        "link": "https://24-frolickingfrogs-hotel-api.dev.io-academy.uk/",
+        "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-hotel-api",
+        "showOnGithub": true,
+        "category": ["Back-End Development, API"],
+        "coverImage": "images/HotelBookings/HT05.png",
+        "image": ["images/HotelBookings/HT01.png", "images/HotelBookings/HT02.png", "images/HotelBookings/HT03.png", "images/HotelBookings/HT04.png"],
+        "pageLink": "hotelBookingWebsite.html?project=hotelBookingWebsite"
+      },
       
       {
         "title": "cardiffBookshopMap",
