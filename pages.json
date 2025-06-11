@@ -140,8 +140,11 @@
         "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
         "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
         "pageLink": "calibreAudio.html?project=calibreAudio"
-      },
+      }
 
+    ]
+  }
+/*
       {
         "title": "parentPayGroup/",
         "name": "Parent Pay Group",
@@ -149,7 +152,7 @@
         "description": "Parent Pay Group",
         "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br>Whilst freelancing for Calibre Audio, I have been responsible for flyer and banner design for events plus designing the 2022-2023 Impact report.",
         "showOnGithub": false,
-        "category": ["Print Design"],
+        "category": ["Graphic Design"],
         "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
         "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
         "pageLink": "parentPayGroup.html?project=parentPayGroup"
