@@ -143,7 +143,7 @@
       },
 
       {
-        "title": "parentPayGroup",
+        "title": "parentPayGroup/",
         "name": "Parent Pay Group",
         "featured": true,
         "description": "Parent Pay Group",
