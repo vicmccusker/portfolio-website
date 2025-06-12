@@ -1,0 +1,162 @@
+{
+    "items": [
+      {
+
+        "title": "birthstone",
+        "name": "Birthstone Generator",
+        "featured": true,
+        "pageDescription": "This birthstone generator uses the select function to display your birth month and associated birthstone. The project is based on an initial challenge by Front End Mentor which I repurposed.<br><br>I designed the UI, 3D modelled the gems using Blender and incorporated Javascript for functionality.",
+        "link": "https://vicmccusker.github.io/birthstone-generator/",
+        "github": "https://github.com/vicmccusker/birthstone-generator",
+        "showOnGithub": true,
+        "category": ["Digital Design", " Front End Development"],
+        "coverImage": "images/Birthstone/BS05.png",
+        "image": ["images/Birthstone/BS01.png", "images/Birthstone/BS02.png", "images/Birthstone/BS03.png", "images/Birthstone/BS04.png"],
+        "pageLink": "birthstone.html?project=birthstone",
+        "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"]
+
+      },
+
+      {
+        "title": "jobsearchWebsite",
+        "name": "Jobsearch Website",
+        "featured": true,
+        "pageDescription": "Developed during my time at iO Academy, this jobsearch website was developed using the Front-End framework, React. In a team of five, we used Agile, Scrum and Pair-Programming techniques within this project, which spanned four days.<br><br>By mapping out a component tree at the beginning of our project, it allowed us to visualise the structure of our website. Then, working in an Agile methodology, we split the Stories (tasks) into smaller tasks for our pair-programming teams to work on simultaneously.<br><br>The website uses a pre-build RESTful API. We used Fetch techniques to display the required filtering including the individual job ID’s on the singular job page. The search command filters by keyword.<br><br>Using Tailwind, we replicated a provided Front-End design. With more time, we would have made sure that the website was fully responsive.",
+        "toolsUsed": "HTML, CSS, Javascript, React, Git, Github, Tailwind",
+        "link": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
+        "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-jobsearch",
+        "showOnGithub": true,
+        "category": ["Front End Development"],
+        "coverImage": "images/JobSearch/JS01.png",
+        "image": ["images/JobSearch/JS02.png", "images/JobSearch/JS03.png", "images/JobSearch/JS04.png"],
+        "pageLink": "jobsearchWebsite.html?project=jobsearchWebsite",
+        "skills": ["React, Tailwind, HTML, CSS, Git, Github, Pair Programming, Agile, Scrum"],
+        "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
+      },
+
+      {
+        "title": "bloggingWebsite",
+        "name": "Blogging Website",
+        "featured": true,
+        "pageDescription": "Developed during my time at iO Academy, this blogging website was developed using PHP and populated by using a MySQL Database. In a team of five, we used Agile, Scrum and Pair-Programming techniques. The project in total spanned four days. <br><br>We first visualised the project by creating a diagram that mapped out our Models, Entities and Classes. From here, we created a MySQL database that we used for Users, Blogs, Comments and Reactions.<br><br>Using Object Oriented Programming, the blogging website includes a register feature which adds a new User to the database and a login feature which logs an existing user in. Users are able to create blog posts, comment on posts and determine whether they ‘like’ or ‘dislike’ posts. Any posts that have 1.5x the amount of dislikes are flagged as 'controversial’.<br><br>The front-end HTML and Tailwind CSS were provided, they are displayed using PHP.",
+        "pageDescriptionInDepth": "",
+        "toolsUsed": "MySQL, PHP, Git, Github",
+        "link": "https://24-frolickingfrogs-blog.dev.io-academy.uk/",
+        "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-blogging-site/",
+        "showOnGithub": true,
+        "category": ["Back End Development"],
+        "coverImage": "images/BloggingWebsite/BW01.png",
+        "image": ["images/BloggingWebsite/BLOG04.png", "images/BloggingWebsite/BLOG01.png", "images/BloggingWebsite/BLOG02.png", "images/BloggingWebsite/BLOG03.png"],
+        "pageLink": "bloggingWebsite.html?project=bloggingWebsite",
+        "skills": ["PHP, MySQL, PHPUnit, OOP"],
+        "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
+      },
+
+      {
+        "title": "interactiveRatingComponent",
+        "name": "Interactive Rating Component",
+        "featured": true,
+        "pageDescription": "The Interactive Rating Component is provided as a challenge on Front End Mentor.<br><br>Built using HTML, CSS and Javascript, the component displays your rating selection depending on the value that you clicked. You are then able to resubmit another rating by clicking the 'rate again' button.<br><br>I redesigned the component, redesigning the colour scheme and replacing the numbers with stars.",
+        "toolsUsed": "HTML, CSS, Javascript",
+        "link": "https://vicmccusker.github.io/interactive-rating-component/",
+        "github": "https://github.com/vicmccusker/interactive-rating-component",
+        "showOnGithub": true,
+        "category": ["Front End Development"],
+        "coverImage": "images/InteractiveRating/IR01.png",
+        "image": ["images/InteractiveRating/IR02.png", "images/InteractiveRating/IR03.png"],
+        "pageLink": "interactiveRatingComponent.html?project=interactiveRatingComponent",
+        "skills": ["React, Tailwind, HTML, CSS, Git, Github, Pair Programming, Agile, Scrum"],
+        "acknowledgements": ["Team Members: Alex Livingston, Connor Yeeles, Leon Birch, Rosina Matloob"]
+      },
+
+      {
+        "title": "pizzaWebsite",
+        "name": "Pizza Website",
+        "featured": true,
+        "description": "Pizza Website",
+        "pageDescription": "A landing page design and front-end development solution for a Pizza Website. As a work in progress, I will be working to add the following pages and interactivity.",
+        "link": "https://vicmccusker.github.io/pizza-restaurant-fe/",
+        "github": "https://github.com/vicmccusker/pizza-restaurant-fe",
+        "showOnGithub": true,
+        "category": ["Digital Design, Front End Development"],
+        "coverImage": "images/PizzaRestaurant/PR01.png",
+        "image": ["images/PizzaRestaurant/PW03.png", "images/PizzaRestaurant/PW02.png"],
+        "pageLink": "pizzaWebsite.html?project=pizzaWebsite"
+      },
+
+      {
+        "title": "hotelBookingWebsite",
+        "name": "Hotel Booking Website",
+        "featured": true,
+        "description": "Hotel Booking Website",
+        "pageDescription": "Developed during my time at iO Academy, as a team we built an API for a Hotel Booking site for employees of that Hotel.<br><br>The API has the following functionalities:<br><br>- Show all rooms and filter by number of guests, room type and availability Dates<br><br>- Show individual rooms and allow bookings for that room. Bookings are created with the Customer Name, amount of guests, Start Date, End Date and shows current bookings<br><br>- Show upcoming bookings, filter by room and with the ability to cancel a booking.<br><br>The API was built using Laravel and PHP. We were responsible for the Back-End component of this project that linked to an existing Front-End.",
+        "link": "https://24-frolickingfrogs-hotel-fe.dev.io-academy.uk/",
+        "github": "https://github.com/iO-Academy/24-jan-frolicking-frogs-hotel-api",
+        "showOnGithub": true,
+        "category": ["Back-End Development, API"],
+        "coverImage": "images/HotelBookings/HT05.png",
+        "image": ["images/HotelBookings/HT01.png", "images/HotelBookings/HT02.png", "images/HotelBookings/HT03.png", "images/HotelBookings/HT04.png"],
+        "pageLink": "hotelBookingWebsite.html?project=hotelBookingWebsite"
+      },
+      
+      {
+        "title": "cardiffBookshopMap",
+        "name": "Cardiff Bookshop Map",
+        "featured": false,
+        "pageDescription": "<br>Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibson's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.<br><br>The Cardiff Bookshop Map is a not-for-profit project offering greater visibility to Cardiff's independent bookshops and reading rooms. The map was available physically (in 2022) from ArcadeCampfa and independent bookshops across Cardiff.",
+        "github": "https://github.com/vicmccusker",
+        "showOnGithub": false,
+        "category": ["Publication Design"],
+        "coverImage": "images/CardiffBookshopMap/CBS5.png",
+        "image": ["images/CardiffBookshopMap/CBS1.png", "images/CardiffBookshopMap/CBS2.png", "images/CardiffBookshopMap/CBS3.png", "images/CardiffBookshopMap/CBS4.png" ],
+        "pageLink": "cardiffBookshopMap.html?project=cardiffBookshopMap",
+        "skills": ["Print Design"],
+        "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
+
+      },
+      
+      {
+        "title": "vaniday",
+        "name": "Vaniday",
+        "featured": false,
+        "description": "A beauty and wellness app",
+        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
+        "showOnGithub": false,
+        "category": ["Print Design, Digital Design"],
+        "coverImage": "images/Vaniday/Vaniday-01.png",
+        "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png" ],
+        "pageLink": "vaniday.html?project=vaniday"
+
+      },
+
+      {
+        "title": "calibreAudio",
+        "name": "Calibre Audio",
+        "featured": false,
+        "description": "Calibre Audio",
+        "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br>Whilst freelancing for Calibre Audio, I have been responsible for flyer and banner design for events plus designing the 2022-2023 Impact report.",
+        "showOnGithub": false,
+        "category": ["Print Design"],
+        "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
+        "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
+        "pageLink": "calibreAudio.html?project=calibreAudio"
+      }
+
+    ]
+  }
+/*
+      {
+        "title": "parentPayGroup/",
+        "name": "Parent Pay Group",
+        "featured": true,
+        "description": "Parent Pay Group",
+        "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br>Whilst freelancing for Calibre Audio, I have been responsible for flyer and banner design for events plus designing the 2022-2023 Impact report.",
+        "showOnGithub": false,
+        "category": ["Graphic Design"],
+        "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",
+        "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
+        "pageLink": "parentPayGroup.html?project=parentPayGroup"
+      }
+
+    ]
+  }
