@@ -2,14 +2,14 @@
     "items": [
 
       {
-        "title": "parentPayGroup",
-        "name": "Parent Pay Group",
+        "title": "parentPayGroupEvents",
+        "name": "ParentPay Group Events",
         "featured": true,
         "description": "B2B EdTech SAAS",
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with eleven brands ",
         "showOnGithub": false,
-        "category": ["Print Design, Large Format Printing, Digital Design"],
-        "coverImage": "images/ParentPayGroup01/ParentPayGroup-1.png",
+        "category": ["Print Design, Large Format Printing"],
+        "coverImage": "images/ParentPayGroup01/PPGHero.png",
         "image": ["images/ParentPayGroup01/ParentPayGroup-1.png", "images/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-3.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png" ],
         "pageLink": "parentPayGroup.html?project=parentPayGroup"
 
