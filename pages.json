@@ -141,7 +141,21 @@
         "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
         "pageLink": "calibreAudio.html?project=calibreAudio"
      
-      }
+      },
+
+            {
+        "title": "PPG",
+        "name": "Vaniday",
+        "featured": true,
+        "description": "A beauty and wellness app",
+        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
+        "showOnGithub": false,
+        "category": ["Print Design, Digital Design"],
+        "coverImage": "images/Vaniday/Vaniday-01.png",
+        "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png" ],
+        "pageLink": "parentPayGroup.html?project=parentPayGroup"
+
+      },
 
     ]
   }
