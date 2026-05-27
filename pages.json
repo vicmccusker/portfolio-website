@@ -6,12 +6,12 @@
         "name": "ParentPay Group Events",
         "featured": true,
         "description": "B2B EdTech SAAS",
-        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with eleven brands ",
+        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> Throughout the year, ParentPay Group attends a number of high-profile events including the Schools and Academies show (Edtech), Bett (Edtech), and LACA (Catering) <br><br> I am the lead designer on event assets, concepting and producing stand designs, brochures, merchandise and flyers. This page includes a selection of those assets.",
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing"],
         "coverImage": "images/ParentPayGroup01/PPGHero.png",
         "image": ["images/ParentPayGroup01/ParentPayGroup-1.png", "images/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-3.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png" ],
-        "pageLink": "parentPayGroup.html?project=parentPayGroupEvents"
+        "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
 
       },
 
