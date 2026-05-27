@@ -20,7 +20,7 @@
       {
         "title": "jobsearchWebsite",
         "name": "Jobsearch Website",
-        "featured": true,
+        "featured": false,
         "pageDescription": "Developed during my time at iO Academy, this jobsearch website was developed using the Front-End framework, React. In a team of five, we used Agile, Scrum and Pair-Programming techniques within this project, which spanned four days.<br><br>By mapping out a component tree at the beginning of our project, it allowed us to visualise the structure of our website. Then, working in an Agile methodology, we split the Stories (tasks) into smaller tasks for our pair-programming teams to work on simultaneously.<br><br>The website uses a pre-build RESTful API. We used Fetch techniques to display the required filtering including the individual job ID’s on the singular job page. The search command filters by keyword.<br><br>Using Tailwind, we replicated a provided Front-End design. With more time, we would have made sure that the website was fully responsive.",
         "toolsUsed": "HTML, CSS, Javascript, React, Git, Github, Tailwind",
         "link": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
@@ -37,7 +37,7 @@
       {
         "title": "bloggingWebsite",
         "name": "Blogging Website",
-        "featured": true,
+        "featured": false,
         "pageDescription": "Developed during my time at iO Academy, this blogging website was developed using PHP and populated by using a MySQL Database. In a team of five, we used Agile, Scrum and Pair-Programming techniques. The project in total spanned four days. <br><br>We first visualised the project by creating a diagram that mapped out our Models, Entities and Classes. From here, we created a MySQL database that we used for Users, Blogs, Comments and Reactions.<br><br>Using Object Oriented Programming, the blogging website includes a register feature which adds a new User to the database and a login feature which logs an existing user in. Users are able to create blog posts, comment on posts and determine whether they ‘like’ or ‘dislike’ posts. Any posts that have 1.5x the amount of dislikes are flagged as 'controversial’.<br><br>The front-end HTML and Tailwind CSS were provided, they are displayed using PHP.",
         "pageDescriptionInDepth": "",
         "toolsUsed": "MySQL, PHP, Git, Github",
@@ -55,7 +55,7 @@
       {
         "title": "interactiveRatingComponent",
         "name": "Interactive Rating Component",
-        "featured": true,
+        "featured": false,
         "pageDescription": "The Interactive Rating Component is provided as a challenge on Front End Mentor.<br><br>Built using HTML, CSS and Javascript, the component displays your rating selection depending on the value that you clicked. You are then able to resubmit another rating by clicking the 'rate again' button.<br><br>I redesigned the component, redesigning the colour scheme and replacing the numbers with stars.",
         "toolsUsed": "HTML, CSS, Javascript",
         "link": "https://vicmccusker.github.io/interactive-rating-component/",
@@ -72,7 +72,7 @@
       {
         "title": "pizzaWebsite",
         "name": "Pizza Website",
-        "featured": true,
+        "featured": false,
         "description": "Pizza Website",
         "pageDescription": "A landing page design and front-end development solution for a Pizza Website. As a work in progress, I will be working to add the following pages and interactivity.",
         "link": "https://vicmccusker.github.io/pizza-restaurant-fe/",
@@ -87,7 +87,7 @@
       {
         "title": "hotelBookingWebsite",
         "name": "Hotel Booking Website",
-        "featured": true,
+        "featured": false,
         "description": "Hotel Booking Website",
         "pageDescription": "Developed during my time at iO Academy, as a team we built an API for a Hotel Booking site for employees of that Hotel.<br><br>The API has the following functionalities:<br><br>- Show all rooms and filter by number of guests, room type and availability Dates<br><br>- Show individual rooms and allow bookings for that room. Bookings are created with the Customer Name, amount of guests, Start Date, End Date and shows current bookings<br><br>- Show upcoming bookings, filter by room and with the ability to cancel a booking.<br><br>The API was built using Laravel and PHP. We were responsible for the Back-End component of this project that linked to an existing Front-End.",
         "link": "https://24-frolickingfrogs-hotel-fe.dev.io-academy.uk/",
@@ -102,7 +102,7 @@
       {
         "title": "cardiffBookshopMap",
         "name": "Cardiff Bookshop Map",
-        "featured": false,
+        "featured": true,
         "pageDescription": "<br>Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibson's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.<br><br>The Cardiff Bookshop Map is a not-for-profit project offering greater visibility to Cardiff's independent bookshops and reading rooms. The map was available physically (in 2022) from ArcadeCampfa and independent bookshops across Cardiff.",
         "github": "https://github.com/vicmccusker",
         "showOnGithub": false,
@@ -118,7 +118,7 @@
       {
         "title": "vaniday",
         "name": "Vaniday",
-        "featured": false,
+        "featured": true,
         "description": "A beauty and wellness app",
         "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
         "showOnGithub": false,
@@ -132,7 +132,7 @@
       {
         "title": "calibreAudio",
         "name": "Calibre Audio",
-        "featured": false,
+        "featured": true,
         "description": "Calibre Audio",
         "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br>Whilst freelancing for Calibre Audio, I have been responsible for flyer and banner design for events plus designing the 2022-2023 Impact report.",
         "showOnGithub": false,
