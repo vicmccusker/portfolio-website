@@ -144,7 +144,7 @@
       },
       
       {
-        "title": "PPG",
+        "title": "parentPayGroup",
         "name": "PPG",
         "featured": true,
         "description": "A beauty and wellness app",
