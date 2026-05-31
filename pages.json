@@ -10,7 +10,7 @@
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing, Digital Design"],
         "coverImage": "images/ParentPayGroup01/PPGHero.png",
-        "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png"],
+        "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroup.html?project=parentPayGroup"
 
       },
