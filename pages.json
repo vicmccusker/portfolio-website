@@ -19,7 +19,7 @@
 
         "title": "birthstone",
         "name": "Birthstone Generator",
-        "featured": true,
+        "featured": false,
         "pageDescription": "This birthstone generator uses the select function to display your birth month and associated birthstone. The project is based on an initial challenge by Front End Mentor which I repurposed.<br><br>I designed the UI, 3D modelled the gems using Blender and incorporated Javascript for functionality.",
         "link": "https://vicmccusker.github.io/birthstone-generator/",
         "github": "https://github.com/vicmccusker/birthstone-generator",
