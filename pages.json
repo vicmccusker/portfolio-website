@@ -1,16 +1,18 @@
 {
     "items": [
-
+      
       {
-        "title": "parentPayGroupEvents",
-        "name": "ParentPay Group - Events",
+        "title": "parentPayGroupMerchandise",
+        "name": "ParentPay Group - Merchandise",
         "featured": true,
         "description": "B2B EdTech SAAS",
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
-        "category": ["Print Design, Large Format Printing, Merchandise Design"],
-        "coverImage": "images/parentPayGroupEvents/PPGHero.png",
-        "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
+        "category": ["Print Design"],
+        "coverImage": "images/parentPayGroupMerchandise/PPG Bookmark (3).png",
+        "image": ["images/parentPayGroupMerchandise/PPG Bookmark (3).png", "images/parentPayGroupMerchandise/PPG Bookmark.png", "images/parentPayGroupMerchandise/PPG Stickers.png", "images/parentPayGroupMerchandise/PPG Spray.png"],
+        "captions": ["Bookmark design", "Bookmark design", "Stickers", "Lavender spray bottle"],
+        "pageLink": "parentPayGroupMerchandise.html?project=parentPayGroupMerchandise"
 
       },
       
@@ -22,9 +24,23 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing"],
-        "coverImage": "images/parentPayGroupEvents/PPGHero.png",
-        "image": ["images/parentPayGroupEvents/PPGHero.png"],
+        "coverImage": "images/robPezetPottery/robPezetPottery.png",
+        "image": ["images/parentPayGroupEvents/ParentPayGroup-2 7.png"],
         "pageLink": "parentPayGroupPrint.html?project=parentPayGroupPrint"
+
+      },
+
+        {
+        "title": "parentPayGroupEvents",
+        "name": "ParentPay Group - Event Stands",
+        "featured": true,
+        "description": "B2B EdTech SAAS",
+        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
+        "showOnGithub": false,
+        "category": ["Print Design, Large Format Printing, Merchandise Design"],
+        "coverImage": "images/parentPayGroupEvents/PPGHero.png",
+        "image": ["images/parentPayGroupEvents/ParentPayGroup-2.png", "images/parentPayGroupEvents/ParentPayGroup-2 2.png", "images/parentPayGroupEvents/ParentPayGroup-2 3.png", "images/parentPayGroupEvents/ParentPayGroup-2 4.png", "images/parentPayGroupEvents/ParentPayGroup-2 5.png"],
+        "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
 
       },
       
@@ -68,6 +84,22 @@
         "image": ["images/CardiffBookshopMap/CBS1.png", "images/CardiffBookshopMap/CBS2.png", "images/CardiffBookshopMap/CBS3.png", "images/CardiffBookshopMap/CBS4.png" ],
         "pageLink": "cardiffBookshopMap.html?project=cardiffBookshopMap",
         "skills": ["Print Design"],
+        "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
+
+      },
+
+      {
+        "title": "savillsPrivateOffice",
+        "name": "Savills Private Office",
+        "featured": true,
+        "pageDescription": "<br>Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibson's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.<br><br>The Cardiff Bookshop Map is a not-for-profit project offering greater visibility to Cardiff's independent bookshops and reading rooms. The map was available physically (in 2022) from ArcadeCampfa and independent bookshops across Cardiff.",
+        "github": "https://github.com/vicmccusker",
+        "showOnGithub": false,
+        "category": ["Email Design"],
+        "coverImage": "images/CardiffBookshopMap/CBS5.png",
+        "image": ["images/CardiffBookshopMap/CBS1.png", "images/CardiffBookshopMap/CBS2.png", "images/CardiffBookshopMap/CBS3.png", "images/CardiffBookshopMap/CBS4.png" ],
+        "pageLink": "savillsPrivateOffice.html?project=savillsPrivateOffice",
+        "skills": ["Email Design"],
         "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
 
       },

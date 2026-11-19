@@ -1,7 +1,7 @@
 :root {
-  --background: #f9e7e7;
-  --text: #412e50;
-  --yellow: #FCF200;
+  --background: #fcfcfc;
+  --text: #47350f;
+  --yellow: #f3ff4f;
 }
 
 * {
@@ -53,13 +53,13 @@ nav a {
 
 nav a:hover {
   
-  background-image: radial-gradient(#00fb9f, transparent);
+  background-image: radial-gradient(#ffff42, transparent);
 
 }
 
 nav a:focus {
   
-  background-image: radial-gradient(#00fb9f, transparent);
+  background-image: radial-gradient(#ffff42, transparent);
 
 }
 
@@ -848,4 +848,30 @@ ul {
 
 }
 
+.next-project {
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.next-project-link {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.next-project-label {
+    display: block;
+    font-size: 0.9rem;
+    opacity: 0.6;
+}
+
+.next-project-name {
+    display: block;
+    font-size: 1.5rem;
+    margin-top: 0.25rem;
+}
+
+.next-project-link:hover .next-project-name {
+    text-decoration: underline;
+}
 }
