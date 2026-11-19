@@ -24,7 +24,7 @@
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing"],
         "coverImage": "images/ParentPayGroupPrint/PPGHero.png",
-        "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
+        "image": ["images/parentPayGroupEvents/ParentPayGroup-2.png", "images/parentPayGroupEvents/ParentPayGroup-4.png", "images/parentPayGroupEvents/ParentPayGroup-5.png", "images/parentPayGroupEvents/ParentPayGroup-7.png","images/parentPayGroupEvents/ParentPayGroup-8.png", "images/parentPayGroupEvents/ParentPayGroup-9.png", "images/parentPayGroupEvents/ParentPayGroup-10.png", "images/parentPayGroupEvents/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroupPrint.html?project=parentPayGroupPrint"
 
       },
@@ -38,7 +38,7 @@
         "showOnGithub": false,
         "category": ["Social Media, Video, In-app Design"],
         "coverImage": "images/ParentPayGroup01/PPGHero.png",
-        "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
+        "image": ["images/parentPayGroupEvents/ParentPayGroup-2.png", "images/parentPayGroupEvents/ParentPayGroup-4.png", "images/parentPayGroupEvents/ParentPayGroup-5.png", "images/parentPayGroupEvents/ParentPayGroup-7.png","images/parentPayGroupEvents/ParentPayGroup-8.png", "images/parentPayGroupEvents/ParentPayGroup-9.png", "images/parentPayGroupEvents/ParentPayGroup-10.png", "images/parentPayGroupEvents/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroupDigital.html?project=parentPayGroupDigital"
 
       },
