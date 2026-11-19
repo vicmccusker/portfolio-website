@@ -6,12 +6,12 @@
         "name": "ParentPay Group - Merchandise",
         "featured": true,
         "description": "B2B EdTech SAAS",
-        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
+        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> As ParentPay Group attend over 60+ events per year, it's important to have a comprehensive brand presence. This page displays some of those merchandise offerings.",
         "showOnGithub": false,
-        "category": ["Print Design"],
-        "coverImage": "images/parentPayGroupMerchandise/PPG Bookmark (3).png",
-        "image": ["images/parentPayGroupMerchandise/PPG Bookmark (3).png", "images/parentPayGroupMerchandise/PPG Bookmark.png", "images/parentPayGroupMerchandise/PPG Stickers.png", "images/parentPayGroupMerchandise/PPG Spray.png"],
-        "captions": ["Bookmark design", "Bookmark design", "Stickers", "Lavender spray bottle"],
+        "category": ["Print Design, Illustration"],
+        "coverImage": "images/parentPayGroupMerchandise/PPG BookmarkSq.png",
+        "image": ["images/parentPayGroupMerchandise/PPG Bookmark (3).png", "images/parentPayGroupMerchandise/PPG Bookmark.png", "images/parentPayGroupMerchandise/PPG Stickers.png", "images/parentPayGroupMerchandise/PPG Spray.png", "images/parentPayGroupMerchandise/PPG Cookie.png"],
+        "captions": ["Bookmark design - Illustrations created specially", "Bookmark design", "Stickers - Illustrations created specially", "Lavender spray bottle - Illustrations created specially", "Cookie and branded cups"],
         "pageLink": "parentPayGroupMerchandise.html?project=parentPayGroupMerchandise"
 
       },
@@ -24,8 +24,9 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing"],
-        "coverImage": "images/robPezetPottery/robPezetPottery.png",
-        "image": ["images/parentPayGroupEvents/ParentPayGroup-2 7.png"],
+        "coverImage": "images/parentPayGroupPrint/ParentPayGroup-7.png",
+        "image": ["images/parentPayGroupPrint/ParentPay-Print-1.png", "images/parentPayGroupPrint/ParentPayGroup-7.png"],
+        "captions": ["Group brochure design", "Competition hand-outs and timetables for events"],
         "pageLink": "parentPayGroupPrint.html?project=parentPayGroupPrint"
 
       },
@@ -40,6 +41,7 @@
         "category": ["Print Design, Large Format Printing, Merchandise Design"],
         "coverImage": "images/parentPayGroupEvents/PPGHero.png",
         "image": ["images/parentPayGroupEvents/ParentPayGroup-2.png", "images/parentPayGroupEvents/ParentPayGroup-2 2.png", "images/parentPayGroupEvents/ParentPayGroup-2 3.png", "images/parentPayGroupEvents/ParentPayGroup-2 4.png", "images/parentPayGroupEvents/ParentPayGroup-2 5.png"],
+        "captions": ["Bookmark design - Illustrations created specifically", "Bookmark design", "Stickers - Illustrations created specifically", "Lavender spray bottle - - Illustrations created specifically"],
         "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
 
       },
@@ -52,8 +54,9 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
         "category": ["Social Media, Video, In-app Design"],
-        "coverImage": "images/parentPayGroupEvents/PPGHero.png",
-        "image": ["images/parentPayGroupEvents/PPGHero.png"],
+        "coverImage": "images/parentPayGroupDigital/ParentPayGroup-Digital-1.png",
+        "image": ["images/parentPayGroupDigital/ParentPayGroup-Digital-1.png", "images/parentPayGroupDigital/ParentPayGroup-Digital-2.png", "images/parentPayGroupDigital/ParentPayGroup-Digital-3.png", "images/parentPayGroupDigital/PPG-Webinar.png"],
+        "captions": ["Promotion images in the App Store", "Pop-ups within the product", "Banners within the product", "Webinar banners"],
         "pageLink": "parentPayGroupDigital.html?project=parentPayGroupDigital"
 
       },
@@ -91,7 +94,7 @@
       {
         "title": "savillsPrivateOffice",
         "name": "Savills Private Office",
-        "featured": true,
+        "featured": false,
         "pageDescription": "<br>Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibson's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.<br><br>The Cardiff Bookshop Map is a not-for-profit project offering greater visibility to Cardiff's independent bookshops and reading rooms. The map was available physically (in 2022) from ArcadeCampfa and independent bookshops across Cardiff.",
         "github": "https://github.com/vicmccusker",
         "showOnGithub": false,
@@ -107,7 +110,7 @@
       {
         "title": "vaniday",
         "name": "Vaniday",
-        "featured": true,
+        "featured": false,
         "description": "A beauty and wellness app",
         "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
         "showOnGithub": false,
@@ -121,7 +124,7 @@
       {
         "title": "calibreAudio",
         "name": "Calibre Audio",
-        "featured": true,
+        "featured": false,
         "description": "Calibre Audio",
         "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br>Whilst freelancing for Calibre Audio, I have been responsible for flyer and banner design for events plus designing the 2022-2023 Impact report.",
         "showOnGithub": false,
