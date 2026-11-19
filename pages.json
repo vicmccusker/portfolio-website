@@ -11,7 +11,7 @@
         "category": ["Print Design, Large Format Printing"],
         "coverImage": "images/ParentPayGroup01/PPGHero.png",
         "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
-        "pageLink": "parentPayGroup.html?project=parentPayGroup"
+        "pageLink": "parentPayGroup.html?project=parentPayGroupEvents"
 
       },
 
@@ -61,8 +61,8 @@
         "pageLink": "vaniday.html?project=vaniday"
 
       },
-
-            {
+      
+      {
         "title": "robPezetPottery",
         "name": "Rob Pezet Pottery",
         "featured": true,
@@ -72,7 +72,7 @@
         "category": ["Print Design, Digital Design"],
         "coverImage": "images/Vaniday/Vaniday-01.png",
         "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png" ],
-        "pageLink": "vaniday.html?project=vaniday"
+        "pageLink": "vaniday.html?project=robPezetPottery"
 
       },
 
