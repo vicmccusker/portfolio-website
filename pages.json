@@ -9,13 +9,13 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing, Merchandise Design"],
-        "coverImage": "images/ParentPayGroupEvents.PPGHero.png",
-        "image": ["images/ParentPayGroupEvents/ParentPayGroup-2.png", "images/ParentPayGroupEvents/ParentPayGroup-4.png", "images/ParentPayGroupEvents/ParentPayGroup-5.png", "images/ParentPayGroupEvents/ParentPayGroup-7.png","images/ParentPayGroupEvents/ParentPayGroup-8.png", "images/ParentPayGroupEvents/ParentPayGroup-9.png", "images/ParentPayGroupEvents/ParentPayGroup-10.png", "images/ParentPayGroupEvents/ParentPayGroup-11.png"],
+        "coverImage": "images/parentPayGroupEvents.PPGHero.png",
+        "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
 
       },
-
-            {
+      
+      {
         "title": "parentPayGroupPrint",
         "name": "ParentPay Group - Print",
         "featured": true,
@@ -23,13 +23,13 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing"],
-        "coverImage": "images/ParentPayGroup01/PPGHero.png",
+        "coverImage": "images/ParentPayGroupPrint/PPGHero.png",
         "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroupPrint.html?project=parentPayGroupPrint"
 
       },
-
-                  {
+      
+      {
         "title": "parentPayGroupDigital",
         "name": "ParentPay Group - Digital",
         "featured": true,
@@ -42,8 +42,8 @@
         "pageLink": "parentPayGroupDigital.html?project=parentPayGroupDigital"
 
       },
-
-            {
+      
+      {
         "title": "robPezetPottery",
         "name": "Rob Pezet Pottery",
         "featured": true,
@@ -100,8 +100,8 @@
         "pageLink": "calibreAudio.html?project=calibreAudio"
      
       },
-
-            {
+      
+      {
 
         "title": "birthstone",
         "name": "Birthstone Generator",
@@ -116,7 +116,6 @@
         "pageLink": "birthstone.html?project=birthstone",
         "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"]
 
-      },
-
+      }
     ]
   }
