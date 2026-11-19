@@ -8,7 +8,7 @@
         "description": "B2B EdTech SAAS",
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
-        "category": ["Print Design, Large Format Printing"],
+        "category": ["Print Design, Large Format Printing, Merchandise Design"],
         "coverImage": "images/ParentPayGroup01/PPGHero.png",
         "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
@@ -36,27 +36,24 @@
         "description": "B2B EdTech SAAS",
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
-        "category": ["Print Design, Large Format Printing"],
+        "category": ["Social Media, Video, In-app Design"],
         "coverImage": "images/ParentPayGroup01/PPGHero.png",
         "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroupDigital.html?project=parentPayGroupDigital"
 
       },
 
-      {
-
-        "title": "birthstone",
-        "name": "Birthstone Generator",
-        "featured": false,
-        "pageDescription": "This birthstone generator uses the select function to display your birth month and associated birthstone. The project is based on an initial challenge by Front End Mentor which I repurposed.<br><br>I designed the UI, 3D modelled the gems using Blender and incorporated Javascript for functionality.",
-        "link": "https://vicmccusker.github.io/birthstone-generator/",
-        "github": "https://github.com/vicmccusker/birthstone-generator",
-        "showOnGithub": true,
-        "category": ["Digital Design", " Front End Development"],
-        "coverImage": "images/Birthstone/BS05.png",
-        "image": ["images/Birthstone/BS01.png", "images/Birthstone/BS02.png", "images/Birthstone/BS03.png", "images/Birthstone/BS04.png"],
-        "pageLink": "birthstone.html?project=birthstone",
-        "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"]
+            {
+        "title": "robPezetPottery",
+        "name": "Rob Pezet Pottery",
+        "featured": true,
+        "description": "A boutique pottery studio based in Bristol",
+        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
+        "showOnGithub": false,
+        "category": ["Logo design, branding, print design"],
+        "coverImage": "images/Vaniday/Vaniday-01.png",
+        "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png" ],
+        "pageLink": "robPezetPottery.html?project=robPezetPottery"
 
       },
       
@@ -89,20 +86,6 @@
         "pageLink": "vaniday.html?project=vaniday"
 
       },
-      
-      {
-        "title": "robPezetPottery",
-        "name": "Rob Pezet Pottery",
-        "featured": true,
-        "description": "A boutique pottery studio based in Bristol",
-        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
-        "showOnGithub": false,
-        "category": ["Logo design, branding, print design"],
-        "coverImage": "images/Vaniday/Vaniday-01.png",
-        "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png" ],
-        "pageLink": "robPezetPottery.html?project=robPezetPottery"
-
-      },
 
       {
         "title": "calibreAudio",
@@ -116,7 +99,24 @@
         "image": ["images/CalibreAudio/Calibre1.png", "images/CalibreAudio/Calibre2.png", "images/CalibreAudio/Calibre3.png", "images/CalibreAudio/Calibre4.png"],
         "pageLink": "calibreAudio.html?project=calibreAudio"
      
-      }
+      },
+
+            {
+
+        "title": "birthstone",
+        "name": "Birthstone Generator",
+        "featured": false,
+        "pageDescription": "This birthstone generator uses the select function to display your birth month and associated birthstone. The project is based on an initial challenge by Front End Mentor which I repurposed.<br><br>I designed the UI, 3D modelled the gems using Blender and incorporated Javascript for functionality.",
+        "link": "https://vicmccusker.github.io/birthstone-generator/",
+        "github": "https://github.com/vicmccusker/birthstone-generator",
+        "showOnGithub": true,
+        "category": ["Digital Design", " Front End Development"],
+        "coverImage": "images/Birthstone/BS05.png",
+        "image": ["images/Birthstone/BS01.png", "images/Birthstone/BS02.png", "images/Birthstone/BS03.png", "images/Birthstone/BS04.png"],
+        "pageLink": "birthstone.html?project=birthstone",
+        "skills": ["HTML/CSS, Javascript, Web Design, 3D Design using Blender"]
+
+      },
 
     ]
   }
