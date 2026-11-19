@@ -10,7 +10,7 @@
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing, Merchandise Design"],
         "coverImage": "images/parentPayGroupEvents.PPGHero.png",
-        "image": ["images/ParentPayGroup01/ParentPayGroup-2.png", "images/ParentPayGroup01/ParentPayGroup-4.png", "images/ParentPayGroup01/ParentPayGroup-5.png", "images/ParentPayGroup01/ParentPayGroup-7.png","images/ParentPayGroup01/ParentPayGroup-8.png", "images/ParentPayGroup01/ParentPayGroup-9.png", "images/ParentPayGroup01/ParentPayGroup-10.png", "images/ParentPayGroup01/ParentPayGroup-11.png"],
+        "image": ["images/ParentPayGroupEvents/ParentPayGroup-2.png", "images/ParentPayGroupEvents/ParentPayGroup-4.png", "images/ParentPayGroupEvents/ParentPayGroup-5.png", "images/ParentPayGroupEvents/ParentPayGroup-7.png","images/ParentPayGroupEvents/ParentPayGroup-8.png", "images/ParentPayGroupEvents/ParentPayGroup-9.png", "images/ParentPayGroupEvents/ParentPayGroup-10.png", "images/ParentPayGroupEvents/ParentPayGroup-11.png"],
         "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
 
       },
