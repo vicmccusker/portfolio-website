@@ -23,8 +23,8 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing"],
-        "coverImage": "images/ParentPayGroupPrint/PPGHero.png",
-        "image": ["images/parentPayGroupEvents/ParentPayGroup-2.png", "images/parentPayGroupEvents/ParentPayGroup-4.png", "images/parentPayGroupEvents/ParentPayGroup-5.png", "images/parentPayGroupEvents/ParentPayGroup-7.png","images/parentPayGroupEvents/ParentPayGroup-8.png", "images/parentPayGroupEvents/ParentPayGroup-9.png", "images/parentPayGroupEvents/ParentPayGroup-10.png", "images/parentPayGroupEvents/ParentPayGroup-11.png"],
+        "coverImage": "images/parentPayGroupEvents/PPGHero.png",
+        "image": ["images/parentPayGroupEvents/PPGHero.png"],
         "pageLink": "parentPayGroupPrint.html?project=parentPayGroupPrint"
 
       },
@@ -37,8 +37,8 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
         "showOnGithub": false,
         "category": ["Social Media, Video, In-app Design"],
-        "coverImage": "images/ParentPayGroup01/PPGHero.png",
-        "image": ["images/parentPayGroupEvents/ParentPayGroup-2.png", "images/parentPayGroupEvents/ParentPayGroup-4.png", "images/parentPayGroupEvents/ParentPayGroup-5.png", "images/parentPayGroupEvents/ParentPayGroup-7.png","images/parentPayGroupEvents/ParentPayGroup-8.png", "images/parentPayGroupEvents/ParentPayGroup-9.png", "images/parentPayGroupEvents/ParentPayGroup-10.png", "images/parentPayGroupEvents/ParentPayGroup-11.png"],
+        "coverImage": "images/parentPayGroupEvents/PPGHero.png",
+        "image": ["images/parentPayGroupEvents/PPGHero.png"],
         "pageLink": "parentPayGroupDigital.html?project=parentPayGroupDigital"
 
       },
