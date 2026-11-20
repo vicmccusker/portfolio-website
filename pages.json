@@ -10,8 +10,8 @@
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> The group produces printed materials and merchanise offerings for events. <br><br> All design and Illustrations by myself, copywriting external.",
         "category": ["Print Design, Merchandise Design, Report Design"],
         "coverImage": "images/parentPayGroupPrint/BookmarkSq.png",
-        "image": ["images/parentPayGroupPrint/Brochures.png", "images/parentPayGroupPrint/Bookmark.png", "images/parentPayGroupPrint/BookmarkZoom.png", "images/parentPayGroupPrint/Stickers.png", "images/parentPayGroupPrint/WinSchedule.png", "images/parentPayGroupPrint/Report1.png", "images/parentPayGroupPrint/Cookie.png", "images/parentPayGroupPrint/Spray.png", "images/parentPayGroupPrint/Flyers.png"],
-        "captions": ["Group brochures detailing 12 brands in one place", "Merchandise - Bookmark design", "Merchandise - Bookmark design", "Merchandise - sticker designs", "Postcard sized competition handouts and schedules for events", "Reports - Gender pay gap", "Merchandise - branded cookies and coffee cups", "Merchandise - lavender spray bottle", "Flyers for catering and finance"],
+        "image": ["images/parentPayGroupPrint/Brochures.png", "images/parentPayGroupPrint/Bookmark.png", "images/parentPayGroupPrint/BookmarkZoom.png", "images/parentPayGroupPrint/Stickers.png", "images/parentPayGroupPrint/WinSchedule.png", "images/parentPayGroupPrint/Ad.png", "images/parentPayGroupPrint/Report1.png", "images/parentPayGroupPrint/Cookie.png", "images/parentPayGroupPrint/Spray.png", "images/parentPayGroupPrint/Flyers.png"],
+        "captions": ["Group brochures detailing 12 brands in one place", "Merchandise - Bookmark design", "Merchandise - Bookmark design", "Merchandise - sticker designs", "Postcard sized competition handouts and schedules for events", "Third-party advert", "Reports - Gender pay gap", "Merchandise - branded cookies and coffee cups", "Merchandise - lavender spray bottle", "Flyers for catering and finance"],
         "pageLink": "parentPayGroupPrint.html?project=parentPayGroupPrint"
 
       },
@@ -19,13 +19,13 @@
         {
         "title": "parentPayGroupEvents",
         "name": "ParentPay Group - Events",
-        "featured": true,
+        "featured": false,
         "description": "B2B EdTech SAAS",
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> As ParentPay Group attend over 60+ events per year, it's important to have a comprehensive brand presence. <br><br>All design and illustrations by myself. Stand layout decisions made by the Marketing team, build by external suppliers.",
         "showOnGithub": false,
         "category": ["Print Design, Large Format Printing, Supplier Management"],
         "coverImage": "images/parentPayGroupEvents/Hero.png",
-        "image": ["images/parentPayGroupEvents/SAASLondon.png", "images/parentPayGroupEvents/LACA.png", "images/parentPayGroupEvents/SAASBham.png", "images/parentPayGroupEvents/ShellScheme.png", "images/parentPayGroupEvents/WheelBanner.png", "images/parentPayGroupEvents/RollBanners.png", "images/parentPayGroupEvents/Banners2.png"],
+        "image": ["images/parentPayGroupEvents/SAASLondon.png", "images/parentPayGroupEvents/LACA.png", "images/parentPayGroupEvents/SAASBham.png", "images/parentPayGroupEvents/ShellScheme.png", "images/parentPayGroupEvents/WheelBanner.png", "images/parentPayGroupEvents/RollBanners.png"],
         "captions": [ "For the School & Academies Show, London which attracts around 3,000 attendees per year. In collaboration with our external stand build supplier", "For the School Food People Show, Birmingham which attracts around 1,000 attendees per year. It is the biggest event for the school catering industry. In collaboration with our external stand build supplier","For Schools and Academies Show, Birmingham which attracts about 4,000 attendees per year. In collaboration with out stand build supplier", "I create around seven or eight of these shell scheme designs for events per year, each with different size/messaging for audiences", "I create pull-up banners for events that don't require a shell-scheme setup. Sometimes we create fun giveaways on stand, like this spinning wheel", "Banners for different products", "Banners for different products"],
         "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
 
@@ -34,15 +34,14 @@
       {
         "title": "parentPayGroupDigital",
         "name": "ParentPay Group - Digital",
-        "featured": true,
+        "featured": false,
         "description": "B2B EdTech SAAS",
         "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> As ParentPay Group attend over 60+ events per year, it's important to have a comprehensive brand presence. This page displays some of those merchandise offerings.",
         "showOnGithub": false,
         "category": ["Social Media, Video, In-app Design"],
-        "coverImage": "images/parentPayGroupDigital/Social.png",
+        "coverImage": "images/parentPayGroupDigital/SocialHero.png",
         "image": ["images/parentPayGroupDigital/Social.png", "images/parentPayGroupDigital/Splash.png", "images/parentPayGroupDigital/AppStore.png", "images/parentPayGroupDigital/InProductBanners.png", "images/parentPayGroupDigital/Webinar.png"],
-        "video": "images/parentPayGroupDigital/christmas card social.mp4",
-        "captions": ["Social", "Pop-ups within the product", "Banners within the product", "Webinar banners"],
+        "captions": ["Social design - Illustration and data visualisation", "Pop-ups within the product", "App store promotional imagery", "Banners within the product", "Webinar banners"],
         "pageLink": "parentPayGroupDigital.html?project=parentPayGroupDigital"
 
       },
@@ -51,12 +50,11 @@
         "title": "robPezetPottery",
         "name": "Rob Pezet Pottery",
         "featured": true,
-        "description": "A boutique pottery studio based in Bristol",
-        "pageDescription": "A boutique pottery studio based in Bristol",
+        "pageDescription": "Rob Pezet Pottery is a boutique pottery studio based in Bristol. <br><br> Rob wanted an identity he could use on his social media and business cards when attending markets. <br><br>Together, we came up with an earthy colour palette, fun logo and a freehand drawing style that can be adapted across assets. <br><br> In the future, he intends to expand into website design.",
         "showOnGithub": false,
-        "category": ["Logo design, branding, print design"],
+        "category": ["Logo design, Branding, Print Design"],
         "coverImage": "images/robPezetPottery/RPPottery.png",
-        "image": ["images/robPezetPottery/robPezetPottery.png"],
+        "image": ["images/robPezetPottery/robPezetPottery.png", "images/robPezetPottery/Logo.png", "images/robPezetPottery/Market.png", "images/robPezetPottery/Social.png"],
         "pageLink": "robPezetPottery.html?project=robPezetPottery"
 
       },
@@ -86,7 +84,7 @@
         "showOnGithub": false,
         "category": ["Email Design"],
         "coverImage": "images/Savills/SavillsHero.png",
-        "image": ["images/Savills/Savills1.png", "images/Savills/Savills2.png", "images/Savills/Savills3.png" ],
+        "image": ["images/Savills/Savills1.png", "images/Savills/Savills2.png", "images/Savills/Savills3.png"],
         "pageLink": "savillsPrivateOffice.html?project=savillsPrivateOffice",
         "skills": ["Email Design"],
         "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]
@@ -98,11 +96,12 @@
         "name": "Vaniday",
         "featured": false,
         "description": "A beauty and wellness app",
-        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. As a Junior designer for Vaniday, I worked closely alongside the Senior Designer across all areas of the business, in three languages and five markets worldwide.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters to be distributed across all markets.<br><br>I was the lead designer on the Winter Beauty Campaign, deciding on the look-and-feel across all channels. I also created a logo and visual identity for the Vaniday Home sub-brand.",
+        "pageDescription": "Vaniday is the online platform to browse and book beauty & wellness services. <br><br> Design work spanned all areas of the business, in three languages and five markets.<br><br>Digital design included designing multi-weekly email campaigns, app banners, landing pages and Instagram posts (both inspirational and promotional).<br><br>Print design included flyers and posters.<br><br>I was the lead designer on the Vaniday Home campaign, tasked with creating a sub-brand and campaign identity.",
         "showOnGithub": false,
         "category": ["Print Design, Digital Design"],
         "coverImage": "images/Vaniday/Vaniday-01.png",
-        "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png" ],
+        "image": ["images/Vaniday/Vaniday-01.png", "images/Vaniday/Vaniday-02.png", "images/Vaniday/Vaniday-03.png","images/Vaniday/Vaniday-04.png"],
+        "captions": ["A selection of social design for the markets in UAE, and Brasil", "Some email designs for the Brasillian and Italian markets", "A selection of email campaign designs including a partnership with Dove", "The 'Vaniday Home campaign"],
         "pageLink": "vaniday.html?project=vaniday"
 
       },
@@ -112,7 +111,7 @@
         "name": "Calibre Audio",
         "featured": false,
         "description": "Calibre Audio",
-        "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br>Whilst freelancing for Calibre Audio, I have been responsible for flyer and banner design for events plus designing the 2022-2023 Impact report.",
+        "pageDescription": "Calibre Audio is a national charity providing a collection of over 15,000 audiobooks for anyone who finds it difficult to read print.<br><br> Calibre Audio asked me to help them design their 2022-2023 Impact Report.",
         "showOnGithub": false,
         "category": ["Print Design"],
         "coverImage": "images/CalibreAudio/Calibre_Audio.jpg",

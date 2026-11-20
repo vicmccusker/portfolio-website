@@ -328,6 +328,33 @@ align-content: center;
 
 /* All Project Pages */
 
+.next-project {
+    padding: 4rem 4rem;
+    text-align: right;
+}
+
+.next-project-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.next-project-label {
+    display: block;
+    font-size: 0.9rem;
+    opacity: 0.6;
+}
+
+.next-project-name {
+    display: block;
+    font-size: 1.5rem;
+    margin-top: 0.25rem;
+}
+
+.next-project-link:hover .next-project-name {
+    text-decoration: none;
+}
+
 .full-width {
 
   display: grid;
@@ -860,7 +887,7 @@ ul {
 }
 
 .next-project {
-    padding: 4rem 0;
+    padding: 4rem 4rem;
     text-align: center;
 }
 
