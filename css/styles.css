@@ -375,6 +375,11 @@ width: 100%;
 
 }
 
+.project-video {
+    display: block;
+    width: 100%;
+    height: auto;
+}
 
 .full-width02 li {
 
@@ -848,6 +853,12 @@ ul {
 
 }
 
+.project-video {
+    display: right;
+    width: 100%;
+    height: auto;
+}
+
 .next-project {
     padding: 4rem 0;
     text-align: center;
@@ -874,4 +885,6 @@ ul {
 .next-project-link:hover .next-project-name {
     text-decoration: none;
 }
+
+
 }

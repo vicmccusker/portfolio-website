@@ -1,47 +1,32 @@
 {
     "items": [
-      
-      {
-        "title": "parentPayGroupMerchandise",
-        "name": "ParentPay Group - Merchandise",
-        "featured": true,
-        "description": "B2B EdTech SAAS",
-        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> As ParentPay Group attend over 60+ events per year, it's important to have a comprehensive brand presence. This page displays some of those merchandise offerings.",
-        "showOnGithub": false,
-        "category": ["Print Design, Illustration"],
-        "coverImage": "images/parentPayGroupMerchandise/PPG BookmarkSq.png",
-        "image": ["images/parentPayGroupMerchandise/PPG Bookmark (3).png", "images/parentPayGroupMerchandise/PPG Bookmark.png", "images/parentPayGroupMerchandise/PPG Stickers.png", "images/parentPayGroupMerchandise/PPG Spray.png", "images/parentPayGroupMerchandise/PPG Cookie.png"],
-        "captions": ["Bookmark design - Illustrations created specially", "Bookmark design", "Stickers - Illustrations created specially", "Lavender spray bottle - Illustrations created specially", "Cookie and branded cups"],
-        "pageLink": "parentPayGroupMerchandise.html?project=parentPayGroupMerchandise"
 
-      },
       
       {
         "title": "parentPayGroupPrint",
         "name": "ParentPay Group - Print",
         "featured": true,
         "description": "B2B EdTech SAAS",
-        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
-        "showOnGithub": false,
-        "category": ["Print Design, Large Format Printing"],
-        "coverImage": "images/parentPayGroupPrint/ParentPayGroup-7.png",
-        "image": ["images/parentPayGroupPrint/ParentPay-Print-1.png", "images/parentPayGroupPrint/ParentPayGroup-7.png"],
-        "captions": ["Group brochure design", "Competition hand-outs and timetables for events"],
+        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> The group produces printed materials and merchanise offerings for events. <br><br> All design and Illustrations by myself, copywriting external.",
+        "category": ["Print Design, Merchandise Design, Report Design"],
+        "coverImage": "images/parentPayGroupPrint/BookmarkSq.png",
+        "image": ["images/parentPayGroupPrint/Brochures.png", "images/parentPayGroupPrint/Bookmark.png", "images/parentPayGroupPrint/BookmarkZoom.png", "images/parentPayGroupPrint/Stickers.png", "images/parentPayGroupPrint/WinSchedule.png", "images/parentPayGroupPrint/Report1.png", "images/parentPayGroupPrint/Cookie.png", "images/parentPayGroupPrint/Spray.png", "images/parentPayGroupPrint/Flyers.png"],
+        "captions": ["Group brochures detailing 12 brands in one place", "Merchandise - Bookmark design", "Merchandise - Bookmark design", "Merchandise - sticker designs", "Postcard sized competition handouts and schedules for events", "Reports - Gender pay gap", "Merchandise - branded cookies and coffee cups", "Merchandise - lavender spray bottle", "Flyers for catering and finance"],
         "pageLink": "parentPayGroupPrint.html?project=parentPayGroupPrint"
 
       },
 
         {
         "title": "parentPayGroupEvents",
-        "name": "ParentPay Group - Event Stands",
+        "name": "ParentPay Group - Events",
         "featured": true,
         "description": "B2B EdTech SAAS",
-        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
+        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> As ParentPay Group attend over 60+ events per year, it's important to have a comprehensive brand presence. <br><br>All design and illustrations by myself. Stand layout decisions made by the Marketing team, build by external suppliers.",
         "showOnGithub": false,
-        "category": ["Print Design, Large Format Printing, Merchandise Design"],
-        "coverImage": "images/parentPayGroupEvents/PPGHero.png",
-        "image": ["images/parentPayGroupEvents/ParentPayGroup-2.png", "images/parentPayGroupEvents/ParentPayGroup-2 2.png", "images/parentPayGroupEvents/ParentPayGroup-2 3.png", "images/parentPayGroupEvents/ParentPayGroup-2 4.png", "images/parentPayGroupEvents/ParentPayGroup-2 5.png"],
-        "captions": ["Bookmark design - Illustrations created specifically", "Bookmark design", "Stickers - Illustrations created specifically", "Lavender spray bottle - - Illustrations created specifically"],
+        "category": ["Print Design, Large Format Printing, Supplier Management"],
+        "coverImage": "images/parentPayGroupEvents/Hero.png",
+        "image": ["images/parentPayGroupEvents/SAASLondon.png", "images/parentPayGroupEvents/LACA.png", "images/parentPayGroupEvents/SAASBham.png", "images/parentPayGroupEvents/ShellScheme.png", "images/parentPayGroupEvents/WheelBanner.png", "images/parentPayGroupEvents/RollBanners.png", "images/parentPayGroupEvents/Banners2.png"],
+        "captions": [ "For the School & Academies Show, London which attracts around 3,000 attendees per year. In collaboration with our external stand build supplier", "For the School Food People Show, Birmingham which attracts around 1,000 attendees per year. It is the biggest event for the school catering industry. In collaboration with our external stand build supplier","For Schools and Academies Show, Birmingham which attracts about 4,000 attendees per year. In collaboration with out stand build supplier", "I create around seven or eight of these shell scheme designs for events per year, each with different size/messaging for audiences", "I create pull-up banners for events that don't require a shell-scheme setup. Sometimes we create fun giveaways on stand, like this spinning wheel", "Banners for different products", "Banners for different products"],
         "pageLink": "parentPayGroupEvents.html?project=parentPayGroupEvents"
 
       },
@@ -51,12 +36,13 @@
         "name": "ParentPay Group - Digital",
         "featured": true,
         "description": "B2B EdTech SAAS",
-        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands spanning MIS, Payments, Catering, Finance and Communication.<br><br> I am the lead designer, producing all designed assets across the business from events (stand design, brochures, merchandise) to third-party advertising and digital assets. <br><br> I am the brand guardian, delivering brand training to external agencies, freelancers, and internal, ensuring a consistant visual style across the business.",
+        "pageDescription": "ParentPay Group is Europe's leading EdTech provider, with twelve brands providing digital solutions for MIS, Payments, Catering, Finance, Communication, Facilities Hire and Reading Solutions in schools and higher education.<br><br> I am the lead designer, producing all designed assets across the business, with occassional support from freelancers. <br><br> As ParentPay Group attend over 60+ events per year, it's important to have a comprehensive brand presence. This page displays some of those merchandise offerings.",
         "showOnGithub": false,
         "category": ["Social Media, Video, In-app Design"],
-        "coverImage": "images/parentPayGroupDigital/ParentPayGroup-Digital-1.png",
-        "image": ["images/parentPayGroupDigital/ParentPayGroup-Digital-1.png", "images/parentPayGroupDigital/ParentPayGroup-Digital-2.png", "images/parentPayGroupDigital/ParentPayGroup-Digital-3.png", "images/parentPayGroupDigital/PPG-Webinar.png"],
-        "captions": ["Promotion images in the App Store", "Pop-ups within the product", "Banners within the product", "Webinar banners"],
+        "coverImage": "images/parentPayGroupDigital/Social.png",
+        "image": ["images/parentPayGroupDigital/Social.png", "images/parentPayGroupDigital/Splash.png", "images/parentPayGroupDigital/AppStore.png", "images/parentPayGroupDigital/InProductBanners.png", "images/parentPayGroupDigital/Webinar.png"],
+        "video": "images/parentPayGroupDigital/christmas card social.mp4",
+        "captions": ["Social", "Pop-ups within the product", "Banners within the product", "Webinar banners"],
         "pageLink": "parentPayGroupDigital.html?project=parentPayGroupDigital"
 
       },
@@ -69,7 +55,7 @@
         "pageDescription": "A boutique pottery studio based in Bristol",
         "showOnGithub": false,
         "category": ["Logo design, branding, print design"],
-        "coverImage": "images/robPezetPottery/robPezetPottery.png",
+        "coverImage": "images/robPezetPottery/RPPottery.png",
         "image": ["images/robPezetPottery/robPezetPottery.png"],
         "pageLink": "robPezetPottery.html?project=robPezetPottery"
 
@@ -95,12 +81,12 @@
         "title": "savillsPrivateOffice",
         "name": "Savills Private Office",
         "featured": false,
-        "pageDescription": "<br>Cardiff Bookshop Map is produced by Yellow Back Books alongside writer and editor Hati Gibson. The project was developed as part of Gibson's Yellow Back Books residency at Arcade Campfa. The map is an A2 folded format.<br><br>The Cardiff Bookshop Map is a not-for-profit project offering greater visibility to Cardiff's independent bookshops and reading rooms. The map was available physically (in 2022) from ArcadeCampfa and independent bookshops across Cardiff.",
+        "pageDescription": "Savills Private Office helps high and ultra-high net worth individuals gain access to comprehensive, tailored and confidential real estate. <br><br> Produced within creative agency, Uncommonly, these email templates worked with an exisiting website produced for The Private Office. The result was a streamlined, continuous look across all marketing assets.",
         "github": "https://github.com/vicmccusker",
         "showOnGithub": false,
         "category": ["Email Design"],
-        "coverImage": "images/CardiffBookshopMap/CBS5.png",
-        "image": ["images/CardiffBookshopMap/CBS1.png", "images/CardiffBookshopMap/CBS2.png", "images/CardiffBookshopMap/CBS3.png", "images/CardiffBookshopMap/CBS4.png" ],
+        "coverImage": "images/Savills/SavillsHero.png",
+        "image": ["images/Savills/Savills1.png", "images/Savills/Savills2.png", "images/Savills/Savills3.png" ],
         "pageLink": "savillsPrivateOffice.html?project=savillsPrivateOffice",
         "skills": ["Email Design"],
         "acknowledgements": ["Design: Victoria McCusker", "Writer and Editor: Hati Gibson", "Artwork (on back) Esyllt Angharad Lewis", "In collaboration with: Arcade Campfa and Yellow Back Books"]

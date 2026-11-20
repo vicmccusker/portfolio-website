@@ -52,6 +52,15 @@ fetch('pages.json').then(function(response) {
                     </figure>`;
                 }
 
+               if (project.video && videoContainer) {
+    videoContainer.innerHTML = `
+        <video class="project-video" controls playsinline preload="metadata"
+               ${project.poster ? `poster="${project.poster}"` : ''}>
+            <source src="${project.video}" type="video/mp4">
+            Your browser doesn't support video playback.
+        </video>`;
+} 
+
             } else {
 
             }
@@ -72,6 +81,8 @@ fetch('pages.json').then(function(response) {
                     <span class="next-project-name">${nextProject.name} &rarr;</span>
                 </a>`;
         }
+
+        
 
     })
 
